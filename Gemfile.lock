@@ -1,4 +1,13 @@
 GIT
+  remote: git://github.com/atsheehan/grit.git
+  revision: e1d91d780c24f154e304fc5d6a0720ad0e596d25
+  specs:
+    grit (2.5.0)
+      diff-lcs (~> 1.1)
+      mime-types (~> 1.15)
+      posix-spawn (~> 0.3.6)
+
+GIT
   remote: git://github.com/atsheehan/omnigollum.git
   revision: 6ec1babc08b6c8f53bf3d26308de857df118f075
   specs:
@@ -12,14 +21,6 @@ GIT
   revision: 5fa960715c4122857478bd3808eb135bacf325d7
   specs:
     mustache (0.99.4)
-
-PATH
-  remote: /Users/asheehan/work/grit
-  specs:
-    grit (2.5.0)
-      diff-lcs (~> 1.1)
-      mime-types (~> 1.15)
-      posix-spawn (~> 0.3.6)
 
 GEM
   remote: https://rubygems.org/
