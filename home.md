@@ -3,3 +3,5 @@ blerg
 foo
 
 baz
+
+bar
