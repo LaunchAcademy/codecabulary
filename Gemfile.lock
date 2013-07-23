@@ -1,11 +1,17 @@
 GIT
-  remote: git://github.com/arr2036/omnigollum.git
-  revision: f7eca9daea6d0cd7b4d6a0a6e626b84c49e184ea
+  remote: git://github.com/atsheehan/omnigollum.git
+  revision: 6ec1babc08b6c8f53bf3d26308de857df118f075
   specs:
     omnigollum (0.1.0)
       gollum
       mustache
       omniauth
+
+GIT
+  remote: git://github.com/defunkt/mustache.git
+  revision: 5fa960715c4122857478bd3808eb135bacf325d7
+  specs:
+    mustache (0.99.4)
 
 GEM
   remote: https://rubygems.org/
@@ -43,7 +49,6 @@ GEM
     mini_portile (0.5.1)
     multi_json (1.7.7)
     multipart-post (1.2.0)
-    mustache (0.99.4)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
     oauth2 (0.8.0)
@@ -89,6 +94,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv
   gollum
+  mustache!
   omniauth-github
   omnigollum!
   thin
