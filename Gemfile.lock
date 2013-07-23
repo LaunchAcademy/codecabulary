@@ -13,6 +13,14 @@ GIT
   specs:
     mustache (0.99.4)
 
+PATH
+  remote: /Users/asheehan/work/grit
+  specs:
+    grit (2.5.0)
+      diff-lcs (~> 1.1)
+      mime-types (~> 1.15)
+      posix-spawn (~> 0.3.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -37,10 +45,6 @@ GEM
       pygments.rb (~> 0.5.2)
       sanitize (~> 2.0.6)
       stringex (~> 2.0.5)
-    grit (2.5.0)
-      diff-lcs (~> 1.1)
-      mime-types (~> 1.15)
-      posix-spawn (~> 0.3.6)
     hashie (2.0.5)
     httpauth (0.2.0)
     jwt (0.1.5)
@@ -94,6 +98,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv
   gollum
+  grit!
   mustache!
   omniauth-github
   omnigollum!
