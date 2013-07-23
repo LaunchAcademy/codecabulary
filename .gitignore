@@ -1,1 +1,12 @@
-.env
+# Exclude environment variables
+/.env
+
+# Ignore bundler config
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Exclude thin configuration
+/config/thin_config.yml
