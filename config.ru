@@ -16,7 +16,7 @@ options = {
   :dummy_auth => false
 }
 
-options[:authorized_users] = ENV["codecabulary_authorized_users"].split(",")
+options[:authorized_users] = ENV["authorized_users"].split(",")
 
 # :omnigollum options *must* be set before the Omnigollum extension is registered
 Precious::App.set(:omnigollum, options)
