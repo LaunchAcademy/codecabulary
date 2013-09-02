@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migration Naming Convention
+
 # Migration Naming Convention
 
 * Migrations should be named following this convention::

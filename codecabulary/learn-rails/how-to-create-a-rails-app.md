@@ -1,4 +1,7 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / How To Create a Rails App
+
 # How To Create a Rails App
+
 ## A step by step guide to prepare your app base at Launch Academy.
 
 First there was “rails new Foo” -- the next thing you know you’re adding “group :test, :development do gem ‘rspec-rails’ end” to your Gemfile and editing your database.yml file to reflect the correct localhost IP. While learning Rails for the first time, it’s difficult to remember these various minutiae of setting up your app; moreover, it’s even more difficult to remember which order they should be performed in. This can often mean running into some time consuming errors along the way. Here is a step by step guide I created, and very often use, to make sure I’m not missing any steps in setting up a working Rails app.

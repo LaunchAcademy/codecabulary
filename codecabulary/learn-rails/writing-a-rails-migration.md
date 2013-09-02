@@ -1,6 +1,6 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Writing a Rails Migration
+
 # Writing a Rails Migration
-
-
 
 [Rails migrations](https://github.com/brettshollenberger/ruby_wiki/blob/master/Migrations.md) are just Ruby code. In your [Rails app](http://google.com), your migrations are stored in `db/migrate` (relative to the [Rails root](https://github.com/brettshollenberger/ruby_wiki/blob/master/Rails%20Root.md)). 
 

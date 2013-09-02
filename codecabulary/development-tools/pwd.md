@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / pwd
+
 # pwd
 
 `pwd` is a built-in command in bash, zsh, ksh, and other common shells that's used to _print_ the _working directory_ (hence `pwd`).

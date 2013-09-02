@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Namespaced Routes
+
 # Namespaced Routes
 
 You want your users to have a products page, and your admin to have a special products page; you need an admin backend, and a good way to separate these concerns is via a namespace.

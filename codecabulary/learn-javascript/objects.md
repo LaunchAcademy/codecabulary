@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Objects
+
 # Javascript Objects
 
 #### Javascript Data Types

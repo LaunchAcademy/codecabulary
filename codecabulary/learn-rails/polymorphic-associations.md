@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Polymorphic Associations
+
 # Polymorphic Associations
 
 Polymorphic associations add flexibility to the `has_many` / `belongs_to` relationship. On Facebook, you can `like` status updates, comments, photos, and videos, and using traditional `has_many` / `belongs_to` relationships for likes, you'd have to generate four models: `likes_status_updates`, `comments_likes`, `likes_photos`, and `likes_videos`. You'd have four controllers and different logic in your various views, and a lot of code that seems like it ought to be DRYed up.

@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Encrypting Passwords
+
 # Encrypting Passwords
 
 Often, we'll want to protect our users by requiring:

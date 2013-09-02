@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / How to Write Rails Forms
+
 # How to Write Rails Forms
 
 When you write a form, it will usually correlate with a database table: a signup page will enter a new user in the users table and a playlist builder will add song/playlist associations to a joins table that correlates playlists with the songs they contain. Forms are thus a good way to begin thinking about Rails' RESTful architecture, which maps HTTP requests to CRUD queries. In particular, forms tend to map POST requests to CREATE commands (sending user information via HTTP triggers a create user SQL query in the database). 

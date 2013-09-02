@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Inverse Associations
+
 #Inverse Associations
 
 Consider the following association: 

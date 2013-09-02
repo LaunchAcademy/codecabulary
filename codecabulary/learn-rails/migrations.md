@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migrations
+
 # Migrations
 
 [Rails](http://www.google.com) migrations allow you to alter your database in a structured and organized way. Instead of altering your database using a [Data Definition Language](http://www.google.com) (the most familiar being [SQL](http://www.google.com)), you'll write Ruby code that [Active Record](https://github.com/brettshollenberger/ruby_wiki/blob/master/Active%20Record.md) will translate into the proper DDL commands. There are a few benefits to handling [schema](https://github.com/brettshollenberger/ruby_wiki/blob/master/Schema.md) changes this way:

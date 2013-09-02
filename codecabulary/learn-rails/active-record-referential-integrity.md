@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record Referential Integrity
+
 # Active Record Referential Integrity
 
 > "Garbage in, garbage out."

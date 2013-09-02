@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / IIFEs
+
 #IIFEs in CoffeeScript
 
 Javascript's Immediately Invoked Function Expressions are a common paradigm for loading things like Backbone/Marionette applications. IIFEs, as their name suggests, are called as soon as they are evaluated, and then never called again--perfect for performing setup on an Application object and returning it to a property hanging off the window.

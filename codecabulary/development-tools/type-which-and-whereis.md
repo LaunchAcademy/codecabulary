@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Type, Which, and Whereis
+
 # type, which, and whereis
 
 `type` is a bash built-in that searches your environment (files in $PATH, keywords, aliases, built-ins, and functions) for executable commands that you pass to it as arguments.

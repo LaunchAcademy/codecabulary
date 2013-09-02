@@ -1,3 +1,6 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / seed.rb
+
+
 # seed.rb
 
 	Movie.create([

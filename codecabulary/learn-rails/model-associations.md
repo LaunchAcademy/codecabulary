@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Model Associations
+
 # Rails Model Associations
 
 #### One-to-One Associations:

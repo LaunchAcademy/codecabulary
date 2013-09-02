@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Starting A Git Project
+
 ## Starting A Git Project
 
 Git is a version control system that takes snapshots of an entire filesystem over time. As you reach a good stopping point (perhaps you've finished a new feature), you _commit_, or record those changes to the file system along with a message to help you and your team to remember what changes were made in that version and why.

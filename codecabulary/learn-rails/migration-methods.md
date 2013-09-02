@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migration Methods
+
 # Migration Methods
 
 #### Create A Table:

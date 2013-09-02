@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Views Cheat Sheet
+
 # Rails Views Cheat Sheet
 
 Rails Views files are written in .erb (Embedded Ruby); they _embed_ Ruby evaluations in your HTML. 
