@@ -1,4 +1,4 @@
-<!--title: Learn JavaScript --%>
+<!-- --- title: Learn JavaScript -->
  
 JavaScript related resources.
 
