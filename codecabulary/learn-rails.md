@@ -1,3 +1,5 @@
+<!-- ---title: Learn Rails --->
+
 [[Codecabulary Home|codecabulary]] / Learn Rails
 
 Our collection of Rails related resources.
