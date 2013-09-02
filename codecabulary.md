@@ -2,11 +2,11 @@ Codecabulary is our community-driven initiative to share beginner-friendly resou
 
 ## Resources:
 
-* [[Learn Rails|learn-rails]]
-* [[Learn Ruby|learn-ruby]]
-* [[Learn Git|learn-git]]
-* [[Learn JavaScript|learn-javascript]]
-* [[Developer Branding|developer-branding]]
+* [[Learn Rails|/codecabulary/learn-rails]]
+* [[Learn Ruby|/codecabulary/learn-ruby]]
+* [[Learn Git|/codecabulary/learn-git]]
+* [[Learn JavaScript|/codecabulary/learn-javascript]]
+* [[Developer Branding|/codecabulary/developer-branding]]
 
 ## Contributions and License
 
