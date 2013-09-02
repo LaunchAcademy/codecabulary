@@ -1,3 +1,7 @@
+<!-- ---title: Learn Ruby --->
+
+[[Codecabulary Home|codecabulary]] / Learn Rails
+
 Ruby related resources for learning to program with ruby.
 
 * [[Array Iterators|codecabulary/learn-ruby/array-iterators]]
