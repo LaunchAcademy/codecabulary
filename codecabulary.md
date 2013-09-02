@@ -1,4 +1,4 @@
-<!-- --Title: Launch Academy Codecabulary -->
+<!-- --title: Launch Academy Codecabulary -->
 Codecabulary is our community-driven initiative to share beginner-friendly resources for the web development community. Our students, staff, and surrounding community has begun to put together some tips and tricks for aspiring developers so that you can begin the journey of learning to code.
 
 ## Resources:
