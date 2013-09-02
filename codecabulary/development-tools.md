@@ -1,4 +1,8 @@
-Development Tool related resources
+<!-- ---title: Development Tools -->
+
+[[Codecabulary Home|codecabulary]] / Development Tools
+
+Resources pertaining to the command line, editors, and database systems
 
 * [[Bash Profile Vs Bash Rc|codecabulary/development-tools/bash-profile-vs-bash-rc]]
 * [[Dotfiles|codecabulary/development-tools/dotfiles]]
