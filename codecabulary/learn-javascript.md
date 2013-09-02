@@ -1,3 +1,5 @@
+<!--title: Learn JavaScript --%>
+ 
 JavaScript related resources.
 
 * [[Event Driven Asynchronous Callbacks|codecabulary/learn-javascript/event-driven-asynchronous-callbacks]]
