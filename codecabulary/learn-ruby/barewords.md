@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Barewords
+
 # Barewords
 
 In Ruby, there are lots of fancy ways of referring to data--constants, global variables, local variables, instance variables, class methods, instance methods; the list goes on. Most of these modes of reference are decorated-- `$global_var` or `CONSTANT`--for example. That means that if we change the _way_ we refer to data, we have to change each reference to that data, or we'll introduce bugs.

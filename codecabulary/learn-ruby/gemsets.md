@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Gemsets
+
 # Gemsets
 
 Different Ruby projects require different functionality, and often, functionality you write for one project will be useful in another project. In Ruby, you can package up individual bits of functionality to reuse as [gems](https://github.com/brettshollenberger/ruby_wiki/blob/master/Gems.md) (a cute little name that plays off of the name _Ruby_). There are gems that pluralize words, gems that retrieve HTML from a provided link, and gems that set up an entire framework for an application (the most popular version of such a gem for Ruby is [Rails](http://www.google.com)). 

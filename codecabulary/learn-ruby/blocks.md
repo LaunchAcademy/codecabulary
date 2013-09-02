@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Blocks
+
 # Blocks
 
 #### Prefer braces for single lines

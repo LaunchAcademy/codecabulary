@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Writing Acceptance Tests in Capybara
+
 # Writing Acceptance Tests in Capybara
 
 Capybara comes with a [Domain-Specific Language (DSL)](google.com) for writing descriptive [acceptance tests](google.com). A domain-specific language is a language created to solve a particular set of problems--in the case of specs, the DSL describes the expected functionality of an application in various situations. 

@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Symbols
+
 # Symbols
 
 > Every reference to a symbol takes up the same space, so using symbols for hash keys, links, and routes is always much more efficient than using strings as keys. 

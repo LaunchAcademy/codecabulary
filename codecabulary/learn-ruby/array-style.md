@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Style
+
 #Arrays 
 
 ####Prefer literal arrays & hash creation, unless you need to pass parameters to their constructors.

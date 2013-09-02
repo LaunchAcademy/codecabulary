@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Iterators
+
 # Array Iterators
 
 Like all classes that include the Enumerator module, Array has an each method which defines which elements should be iterated over and how. It then defines additional methods defined in terms of each. 
