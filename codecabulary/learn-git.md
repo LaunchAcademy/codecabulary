@@ -1,3 +1,5 @@
+[[Codecabulary Home|codecabulary]] / Learn Rails
+
 Git related resources for those learning to program.
 
 * [[Git Lifecycle|codecabulary/learn-git/git-lifecycle]]
