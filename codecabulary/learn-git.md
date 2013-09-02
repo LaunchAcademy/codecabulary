@@ -1,4 +1,4 @@
-[[Codecabulary Home|codecabulary]] / Learn Rails
+[[Codecabulary Home|codecabulary]] / Learn Git
 
 Git related resources for those learning to program.
 
