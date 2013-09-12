@@ -72,44 +72,57 @@ Ok, so now you swapped out sqlite for postgres, rspec for unit-test. You're usin
 I will explain what is going on here, line-by-line, since this is a rather complex script.
 
 First, we need to title our alias. This is how we will reference the set of commands that will follow.
+
     function rails_pg() {
 
 Create a new rails project with a name passed in through as an argument ($1). Disable the default test suite, since we will be replacing it (-T). Delay the bundle command (-B), and specifiy that we will be using postgresql as our database (--database=postgresql).
+
     rails new $1 -T -B --database=postgresql
 
 Change into the directory of our new project
+
     cd $1
 
 Define a gemset for this project. The redirection operator creates a new file with the contents that are output by the 'echo' command, which, in this case, is the project name.
+
     echo $1 > .ruby-gemset
 
 Tell rvm which version of ruby to use.
+
     echo 2.0 > .ruby-version
 
 Tell git to ignore our 'database.yml' file. We can append to the .git-ignore file using the '>>' redirection operator.
+
     echo /config/database.yml >> .gitignore
 
 Make a copy of the database.yml file as an example, since it will not be included in the git repo.
+
     cp config/database.yml config/database.example.yml
 
 Rails gives us a default username to access our databases. I don't want or need these usernames in my config, so I use sed to replace those lines.
+
     sed "s/username: "$1"/username: /g" config/database.example.yml > config/database.yml
 
 Here, I call the 'add_rails_gems' function, which adds the necessary dependencies to our Gemfile.
+
     add_rails_gems
 
 Now that we have defined all of our dependencies, we can bundle.
+
     bundle
 
 Set up rspec as our default test suite.
+
     rails generate rspec:install
 
 Initialize our repository
+
     git init
     git add .
     git commit -m 'Initial commit'
 
 And, finally, invoke our favorite editor and terminate the alias with a semicolon and closing bracket.
+
     subl .;}
 
 Feel free to download and edit this configuration to suit your needs. The latest iteration of this script can be found [here](https://gist.github.com/radavis/6539343).
