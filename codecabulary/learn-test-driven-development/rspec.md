@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / RSpec
 
-<!-- ---title: RSpec --- -->
+<!-- ---title: RSpec -->
 
 #### Workflow
 

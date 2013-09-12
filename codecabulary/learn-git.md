@@ -1,4 +1,4 @@
-<!-- ---title: Learn Git --- -->
+<!-- ---title: Learn Git -->
 [[Codecabulary Home|codecabulary]] / Learn Git
 
 Git related resources for those learning to program.

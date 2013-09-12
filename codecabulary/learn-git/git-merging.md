@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Git Merges
 
-<!-- ---title: Git Merges --- -->
+<!-- ---title: Git Merges -->
 
 #### Fast-Forward Merges
 

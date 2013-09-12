@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record Referential Integrity
 
-<!-- ---title: Active Record Referential Integrity --- -->
+<!-- ---title: Active Record Referential Integrity -->
 
 > "Garbage in, garbage out."
 -Ruby Buddha

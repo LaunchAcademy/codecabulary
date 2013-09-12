@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Router
 
-<!-- ---title: Rails Router --- -->
+<!-- ---title: Rails Router -->
 
 The Rails Router has two purposes: 1) to recognize URLs and dispatch them to a [controller's action](google.com), and 2) to generate paths and URLs so you don't need to hardcode them into your programs. 
 

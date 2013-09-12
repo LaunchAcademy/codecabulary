@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Style
 
-<!-- ---title: Arrays  --- -->
+<!-- ---title: Arrays  -->
 
 ####Prefer literal arrays & hash creation, unless you need to pass parameters to their constructors.
 

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / String Literals
 
-<!-- ---title: String Literals --- -->
+<!-- ---title: String Literals -->
 
 > This was literally the most beautiful and moving thing I’ve ever heard. <br/>
 > -- Chris Traeger, Parks and Recreation

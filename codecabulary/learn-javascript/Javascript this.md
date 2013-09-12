@@ -1,7 +1,7 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / this
 
 
-<!-- ---title: Javascript this --- -->
+<!-- ---title: Javascript this -->
 
 _this_ is one of the most widely used and confused idioms in Javascript. But it doesn't have to be:
 

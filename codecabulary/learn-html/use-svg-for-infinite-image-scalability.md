@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-html]] / Use SVG For Infinite Image Scalability
 
-<!-- ---title: Why We Should be Using SVG --- -->
+<!-- ---title: Why We Should be Using SVG -->
 
 I recently stumbled upon [Avdi Grimm's](https://twitter.com/avdi) awesome idea [PairProgramWith.Me](http://www.pairprogramwith.me). The site comes with a crisp, simple badge by [David Browning](http://twoguys.us), that's the perfect type of image to be an SVG: simple, computer-generated; it was very likely made in Illustrator anyway, so why does the site come with a .png version instead of an .svg?
 

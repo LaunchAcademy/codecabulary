@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Git Log
 
-<!-- ---title: Git Log --- -->
+<!-- ---title: Git Log -->
 
 The `.gitconfig` is one of those dotfiles devs tend to spend a lot of time on. After all, you're going to be getting pretty cozy with Git, and gitting it right will make your job a lot easier. So from me, to you, here's my current favorite `git log` option (aliased as `git hist`):
 

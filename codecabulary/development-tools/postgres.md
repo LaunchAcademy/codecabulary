@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Postgres
 
-<!-- ---title: Postgres --- -->
+<!-- ---title: Postgres -->
 
 #### Installation:
 * Follow the instructions on the [Heroku help page](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup)

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Prototype
 
-<!-- ---title: Javascript Prototype --- -->
+<!-- ---title: Javascript Prototype -->
 
 In Javascript, the concept of prototype is split into two concepts, the prototype property and the prototype attribute; let's examine the first:
 

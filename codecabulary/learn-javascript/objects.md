@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Objects
 
-<!-- ---title: Javascript Objects --- -->
+<!-- ---title: Javascript Objects -->
 
 #### Javascript Data Types
 There are six data type in Javascript. Five are primitive, immutable data types--string, integer, boolean, null, and undefined, which should be familiar from other languages. The sixth, object, is a complex, mutable data type consisting of unordered key-value pairs of primitive data types, as in a hash (Ruby) or dictionary (Python).

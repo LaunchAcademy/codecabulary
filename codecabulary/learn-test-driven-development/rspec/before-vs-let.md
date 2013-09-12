@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / RSpec before vs let
 
-<!-- ---title: RSpec before vs let --- -->
+<!-- ---title: RSpec before vs let -->
 
 In RSpec, there are two ways to DRY up tests (before and let) that share an intersecting purpose: to create variables that are common across tests. For common variable instantiation, the Ruby community prefers _let_, and while _before_ is often used to perform actions common across tests, the purpose of this article is to explore the differences between before and let for common variable creation in order to explain why let is preferred. 
 

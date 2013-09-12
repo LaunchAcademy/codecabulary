@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Writing a Rails Model
 
-<!-- ---title: Writing a Rails Model --- -->
+<!-- ---title: Writing a Rails Model -->
 
 A Rails Model is a Ruby class that can add database records (think of whole rows in an Excel table), find particular data you're looking for, update that data, or remove data. These common operations are referred to by the acronym CRUD--Create, Remove, Update, Destroy. 
 

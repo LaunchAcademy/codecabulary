@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Inverse Associations
 
-<!-- ---title: Inverse Associations --- -->
+<!-- ---title: Inverse Associations -->
 
 Consider the following association: 
 

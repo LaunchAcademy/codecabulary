@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Blocks
 
-<!-- ---title: Blocks --- -->
+<!-- ---title: Blocks -->
 
 #### Prefer braces for single lines
 

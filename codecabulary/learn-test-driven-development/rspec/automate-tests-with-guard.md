@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Automate Tests with Guard
 
-<!-- ---title: Automate Tests with Guard --- -->
+<!-- ---title: Automate Tests with Guard -->
 
 Guard is a command line tool that watches a file structure and automates events when changes are made in those files. While Guard has many uses, this article explores how we can use RSpec and Guard together to automate tests.
 

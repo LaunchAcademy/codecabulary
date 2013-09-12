@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / By Value Versus By Reference
 
-<!-- ---title: By Value versus By Reference --- -->
+<!-- ---title: By Value versus By Reference -->
 
 In JavaScript, among other languages, the syntax distinguishes between values that are stored or accessed by the value itself, or by a reference to that value.
 

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Dotfiles
 
-<!-- ---title: Dotfiles --- -->
+<!-- ---title: Dotfiles -->
 
 ========================
 Dotfiles rule your configuration. They can dictate the appearance of your command line, let you know which branch of a git repository you're working off of, and much more.

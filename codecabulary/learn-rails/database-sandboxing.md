@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Database Sandboxing
 
-<!-- ---title: Database Sandboxing --- -->
+<!-- ---title: Database Sandboxing -->
 
 When learning Active Record, it can be useful to play around in the [Rails console](google.com) without actually affecting your database. Since the Rails console automatically loads the [Rails environment](google.com), which includes the models and database you're using, you'll be able to affect your database using [Active Record methods](google.com) unless you create a sandbox. 
 

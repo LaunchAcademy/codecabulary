@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Root
 
-<!-- ---title: Rails Root --- -->
+<!-- ---title: Rails Root -->
 
 Rails root is a silly name. It seems to imply that it refers to the location of the installation of Rails on your system--but that's not what the Rails root is.
 

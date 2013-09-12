@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / State Machines
 
-<!-- ---title: State Machines --- -->
+<!-- ---title: State Machines -->
 
 State machines represent a very big and complex topic in the world of computer science; navigating to the state machine gem's ReadMe file can make grown men cry. But state machines don't have to the be that complicated!
 

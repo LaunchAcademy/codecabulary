@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Database Indices
 
-<!-- ---title: Database Indices --- -->
+<!-- ---title: Database Indices -->
 
 Database indices work like book indices: Without them, you'd have to flip through every page to find occurrences of particular topics.
 

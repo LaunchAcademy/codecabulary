@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Factory Girl
 
-<!-- ---title: Factory Girl --- -->
+<!-- ---title: Factory Girl -->
 
 Factories allow you to create valid instances of your Rails model classes to reuse. Factories are commonly used to [DRY](google.com) out unit tests.
 
