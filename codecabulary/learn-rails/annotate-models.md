@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Annotate Models
 
-# Annotate Models
+<!-- ---title: Annotate Models --- -->
 
 The annotate gem creates comments in your model classes to remind you of the structure of that part of your schema. For example:
 

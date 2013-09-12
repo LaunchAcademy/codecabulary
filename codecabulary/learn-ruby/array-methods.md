@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Methods
 
-# Array Methods
+<!-- ---title: Array Methods --- -->
 
 #### Array.at(index) -- Returns value or nil if index DNE
 

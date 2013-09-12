@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Truthy and Falsy
 
-# Truthy and Falsy
+<!-- ---title: Truthy and Falsy --- -->
 
 Little in the "real" world is black and white, but in the world of boolean logic, computers will find a way to evaluate any statement, object, or variable as true or false. As humans, we can conceive of such statements as:
 

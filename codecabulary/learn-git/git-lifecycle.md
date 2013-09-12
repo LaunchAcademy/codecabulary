@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / The Git Lifecycle
 
-# The Git Lifecycle
+<!-- ---title: The Git Lifecycle --- -->
 
 ![Illustration of the process of tracking, modifying, and committing changes to a Git project](http://git-scm.com/figures/18333fig0201-tn.png)
 

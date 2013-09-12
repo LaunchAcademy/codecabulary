@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Event-Driven, Asynchronous Callbacks
 
-# Event-Driven, Asynchronous Callbacks
+<!-- ---title: Event-Driven, Asynchronous Callbacks -->
 
 In languages like Ruby and Python, when a process proceeds slowly, like a massive database query, it proceeds slowly for the user that requests it. In Javascript, there's just one process, and we could quickly encounter global issues that affect all users when just one or two users makes a resource-intensive request.
 

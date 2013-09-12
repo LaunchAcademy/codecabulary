@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migrations
 
-# Migrations
+<!-- ---title: Migrations --- -->
 
 Rails migrations allow you to alter your database in a structured and organized way. Instead of altering your database using a Data Definition Language (the most familiar being SQL), you'll write Ruby code that Active Record will translate into the proper DDL commands. There are a few benefits to handling schema changes this way:
 

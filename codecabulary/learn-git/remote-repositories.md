@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Remote Repositories
 
-# Git Basics: Remote Repositories
+<!-- ---title: Git Basics: Remote Repositories -->
 
 As a junior dev, or dev-in-training, one of the most essential pieces to get right is collaboration through Git. It's easier than it sounds. On a given project, you'll have repositories you can pull from and push to, old topic branches that are no longer useful, and expectations from your team. 
 

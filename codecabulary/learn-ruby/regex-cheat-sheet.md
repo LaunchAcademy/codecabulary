@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Regex Cheat Sheet
 
-# Regexes
+<!-- ---title: Regexes --- -->
 
 #### A single character of: a, b, or c:
 

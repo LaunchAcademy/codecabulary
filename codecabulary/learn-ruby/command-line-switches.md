@@ -1,7 +1,7 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Command Line Switches
 
-Ruby Command Line Switches
-========================
+<!-- ---title: Command Line Switches --- -->
+
 When you write a Ruby program, you'll run it from your command line. The command line allows you to select a few special options, called command-line switches, which perform actions on your Ruby code.
 
 The -c flag (Check Syntax)

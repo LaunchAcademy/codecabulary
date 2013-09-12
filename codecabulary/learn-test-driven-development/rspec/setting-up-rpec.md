@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Setting Up RSpec
 
-# Setting Up RSpec
+<!-- ---title: Setting Up RSpec --- -->
 
 This article describes the RSpec setup process in both Ruby and Rails. After setting up in whichever environment you'll be developing in, we recommend you check out Writing Specs in RSpec, and then move on to RSpec Methods.
 

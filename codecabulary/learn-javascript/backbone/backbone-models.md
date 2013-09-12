@@ -1,4 +1,6 @@
-# Backbone Models
+
+
+<!-- ---title: Backbone Models --- -->
 
 Backbone models hold application data and logic around that data, as in Rails.
 

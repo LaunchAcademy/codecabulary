@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record
 
-# Active Record
+<!-- ---title: Active Record --- -->
 
 Apps generally contain three types of things: The page the user sees (the view), the saved information (the model), and the logic that delivers the right information to the right user (the controller). 
 

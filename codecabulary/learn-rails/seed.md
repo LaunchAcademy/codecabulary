@@ -1,7 +1,7 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / seed.rb
 
 
-# seed.rb
+<!-- ---title: seed.rb -->
 
 	Movie.create([
 		{name:  'Batman?', description: 'The Dark Knight Rises?'},

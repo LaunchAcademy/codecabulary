@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / How To Create a Rails App
 
-# How To Create a Rails App
+<!-- ---title: How To Create a Rails App --- -->
 
 ## A step by step guide to prepare your app base at Launch Academy.
 

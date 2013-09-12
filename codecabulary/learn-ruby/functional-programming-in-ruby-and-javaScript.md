@@ -1,7 +1,7 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Functional Programming in Ruby and JavaScript
 
 
-# Functional Programming in Ruby and JavaScript
+<!-- ---title: Functional Programming in Ruby and JavaScript --- -->
 
 Developers new to JavaScript often deride it as being quite unlike what they're used to, and in terms of object-orientation at least, this is a well-made point. But one of the cool benefits of working with Ruby and JavaScript is that they're both strongly support functional programming techniques, which in Ruby are often considered "advanced" techniques, but in JavaScript are a staple of the language. 
 

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Sort By
 
-# Ruby Sort By
+<!-- ---title: Ruby Sort By --- -->
 
 Ruby implements a `sort_by` method that takes a block to sort by; let's take a look at how we could create one ourselves:
 

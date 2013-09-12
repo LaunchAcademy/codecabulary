@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Partials
 
-# Partials
+<!-- ---title: Partials --- -->
 
 Partials are reusable snippets of Rails view code, meaning you can use them to DRY it out.
 

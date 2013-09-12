@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Gems
 
-# Gems
+<!-- ---title: Gems --- -->
 
 Gems are Ruby's implementation of libraries--reusable chunks of code. 
 

@@ -1,4 +1,4 @@
-# Conditionally Apply Classes with ng-class
+<!-- ---title: Conditionally Apply Classes with ng-class -->
 
 `ng-class` allows you to set CSS on a particular HTML element dynamically by data binding an expression that represents all classes to be added:
 

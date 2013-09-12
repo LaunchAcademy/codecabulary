@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Regexes
 
-# Ruby Regexes
+<!-- ---title: Ruby Regexes --- -->
 
 Regular Expressions are patterns often used to ensure user input matches specific criteria (e.g. to ensure a user has entered a valid email address). 
 

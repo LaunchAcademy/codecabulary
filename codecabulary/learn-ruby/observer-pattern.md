@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Observer Pattern
 
-# Observer Pattern
+<!-- ---title: Observer Pattern --- -->
 
 The observer pattern is a solution to the challenges of creating an integrated system--one where the parts are aware of one another's state, as well as the state of the whole. This problem is particularly challenging to solve in a way that doesn't inexorably couple the classes together in a mess of spaghetti code, and the observer pattern's solution to that challenge is to factor out the observation code into its own distinct concern.
 

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Interactive Rebasing
 
-# Interactive Rebasing
+<!-- ---title: Interactive Rebasing --- -->
 
 Developers use interactive rebasing to rewrite history. You can rebase to break up a single, big commit into atomized pieces; to clean up and clarify commit messages; or to simplify the timeline. Git's interactive rebasing tool allows you to rewind history and stop before each commit you want to modify, to allow you significant flexibility to get your commits exactly as you'd like them to be. 
 

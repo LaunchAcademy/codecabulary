@@ -1,7 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Symbolic Links
 
-Symbolic Links (symlinks)
-========================
+<!-- ---title: Symbolic Links (symlinks) -->
 
 Symlinks are like nicknames for files or directories you want to reference. They're like telling your computer, "When I say 'John,' what I mean is 'John Jacob Jingleheimer Schimdt.'"
 

@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Yeoman
 
-# Yeoman
+<!-- ---title: Yeoman --- -->
 
 Yeoman offers workflow tools:
 

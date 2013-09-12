@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Fetch vs. Key Lookup
 
-# Fetch vs. Key Lookup
+<!-- ---title: Fetch vs. Key Lookup -->
 
 If you're building data off of data provided by another company or software, you might not know how rigorous they've been with their collection process, so you should make sure you _are_ rigorous in ensuring you don't store garbage data.
 

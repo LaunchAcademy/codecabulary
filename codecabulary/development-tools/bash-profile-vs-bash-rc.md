@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / bash_profile & .bashrc
 
-#bash_profile & .bashrc
+<!-- ---title: bash_profile & .bashrc -->
 
 The .bash_profile and .bashrc are the place to put information that only applies to the bash (e.g. the program to start other programs) itself. This information could include alias and function definitions, shell options, and prompt settings.
 

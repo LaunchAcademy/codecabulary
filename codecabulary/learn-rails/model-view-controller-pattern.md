@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Model View Controller Pattern
 
-# Model View Controller Pattern
+<!-- ---title: Model View Controller Pattern --- -->
 
 The Model View Controller separates the concerns of an application into its three core functions; imagine a dating site:
 

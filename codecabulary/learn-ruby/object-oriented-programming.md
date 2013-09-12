@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Object-Oriented Programming
 
-#Object-Oriented Programming
+<!-- ---title: Object-Oriented Programming -->
 
 Object-oriented programming is much like 18th and 19th century Western history: Primarily concerned with taxonomy. Contemporaries of Erasumus Darwin (Charles' grandfather), up through Charles' own cohort, spent their time codifying the tiny worlds under the microscope, the massive worlds through the telescope, the innumerable varieties of finches and far-away never-before-seens, the vast multiplicities of human sexuality, and anything else they could classify, systemify, and otherwise nail down in a neat little box.
 

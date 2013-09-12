@@ -1,6 +1,6 @@
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Undoing In Git
 
-# Undoing in Git
+<!-- ---title: Undoing in Git --- -->
 
 #### Amend Your Last Commit
 
