@@ -10,9 +10,11 @@ First there was “rails new Foo” -- the next thing you know you’re adding �
 
 ### The 17.5 Steps:
 
-#### 1) rails new <name> --database=postgresql
+#### 1) rails new <name> --database=postgresql OR rails new <name> -T --database=postgresql
 
 At Launch Academy we tend to use postgresql. So to save yourself a little extra work, make sure you include the --database flag when executing rails new.
+
+The -T flag is short for --skip-test-unit (which is helpful since we usually delete the test directory anyway).
 
 #### 2)  remove public/index (Not applicable for Rails 4.0)
 
