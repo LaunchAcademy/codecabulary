@@ -6,7 +6,7 @@ Guard is a command line tool that watches a file structure and automates events 
 
 #### Installing Guard 
 
-Once you have [RSpec setup](https://github.com/brettshollenberger/ruby_wiki/blob/master/Setting%20Up%20RSpec.md) in your Rails project, you're ready to add Guard.
+Once you have RSpec setup in your Rails project, you're ready to add Guard.
 
 1) Add guard-rspec to the Gemfile
 

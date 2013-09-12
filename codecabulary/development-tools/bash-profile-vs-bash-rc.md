@@ -12,15 +12,13 @@ By default, these files do not exist on Mac OSX. If you want to run functions fr
   #> touch .bashrc
 ```
 
-These files will then appear in your home directory. For information on how to view invisible files (all dotfiles are invisible by default) view [Codecabulary: Dotfiles](https://github.com/brettshollenberger/codecabulary/blob/master/dotfiles/dotfiles.md).
+These files will then appear in your home directory. For information on how to view invisible files (all dotfiles are invisible by default) view Codecabulary: [Dotfiles](/codecabulary/development-tools/dotfiles).
 
 You can now edit these files (they're blank by default) using your favorite text editor. Sublime Text, the Launch Academy editor of choice, can be run from the command line by typing:
 
 ```
   #> subl filename
 ```
-
-For information on setting up a [symlink](https://github.com/brettshollenberger/codecabulary/blob/master/generalterms/symlink.md) to Sublime Text, view [Codecabulary: Setting Up Sublime](https://github.com/brettshollenberger/codecabulary/blob/master/sublime/sublime.md).
 
 What the bash?
 ========================

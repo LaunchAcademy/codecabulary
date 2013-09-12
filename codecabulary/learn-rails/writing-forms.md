@@ -40,7 +40,7 @@ Creating a user model is actually a bit more complex than this example. If we we
 
 2) _Write your validations, associations, rake db:migrate, etc._
 
-Take care of the work involved in setting up your model layer. If you need some help, check out the Wiki's entries related to [Active Record](https://github.com/brettshollenberger/ruby_wiki/blob/master/Active%20Record.md). 
+Take care of the work involved in setting up your model layer. If you need some help, check out the Wiki's entries related to Active Record. 
 
 3) `rails g controller Users index new create show`
 

@@ -2,7 +2,7 @@
 
 # Setting Up RSpec
 
-This article describes the RSpec setup process in both Ruby and Rails. After setting up in whichever environment you'll be developing in, we recommend you check out [Writing Specs in RSpec](https://github.com/brettshollenberger/ruby_wiki/blob/master/Writing%20Specs%20in%20RSpec.md), and then move on to [RSpec Methods](https://github.com/brettshollenberger/ruby_wiki/blob/master/RSpec%20Methods.md).
+This article describes the RSpec setup process in both Ruby and Rails. After setting up in whichever environment you'll be developing in, we recommend you check out Writing Specs in RSpec, and then move on to RSpec Methods.
 
 #### In Plain Ruby:
 
@@ -29,7 +29,7 @@ This article describes the RSpec setup process in both Ruby and Rails. After set
 		require "rspec"
 		require_relative "../lib/app"
 		
-Where app is the name of the app.rb file. Now your spec file is linked to your app file, and ready to rock and roll. Make sure, if you haven't already got the [gem](https://github.com/brettshollenberger/ruby_wiki/blob/master/Gems.md) in the current [gemset](https://github.com/brettshollenberger/ruby_wiki/blob/master/Gemsets.md) that you run:
+Where app is the name of the app.rb file. Now your spec file is linked to your app file, and ready to rock and roll. Make sure, if you haven't already got the gem in the current gemset that you run:
 
 		bundle
 		

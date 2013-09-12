@@ -2,7 +2,7 @@
 
 # Factory Girl
 
-Factories allow you to create valid instances of your Rails [model classes](https://github.com/brettshollenberger/ruby_wiki/blob/master/Writing%20a%20Rails%20Model.md) to reuse. Factories are commonly used to [DRY](google.com) out [unit tests](https://github.com/brettshollenberger/ruby_wiki/blob/master/Writing%20Specs%20in%20RSpec.md).
+Factories allow you to create valid instances of your Rails model classes to reuse. Factories are commonly used to [DRY](google.com) out unit tests.
 
 #### Setting Up Factory Girl with Rails
 
@@ -68,7 +68,7 @@ No matter which build strategy you use, you can override the attributes defined 
 
 1) Define one factory per class that provides the simplest set of attributes necessary to create an instance of that class. If you're creating Active Record objects, that means you only provide attributes that:
 
-* Are required via [validations](https://github.com/brettshollenberger/ruby_wiki/blob/master/Active%20Record%20Validations.md)
+* Are required via validations
 * Do not have default values
 
 2) Factories can be defined anywhere, but will be automatically loaded if they're kept in any of the following locations:

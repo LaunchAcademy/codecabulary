@@ -28,4 +28,4 @@ Regular Expressions are patterns often used to ensure user input matches specifi
 			puts "Logged in."
 		end
 		
-Check out the [Regex Cheat Sheet](https://github.com/brettshollenberger/ruby_wiki/blob/master/Regex%20Cheat%20Sheet.md) for more info on regular expressions. 
+Check out the Regex Cheat Sheet for more info on regular expressions. 

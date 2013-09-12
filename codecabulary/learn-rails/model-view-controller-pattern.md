@@ -26,7 +26,7 @@ The MVC pattern has the cobenefit of making it much easier to learn Rails (or Dj
 
 3) In order to perform all of its fancy controller logic (it needs to find the names and pictures of the users it thinks your compatible with to show you), the controller requests that the model send back the right users from the database and all their information.
 
-4) The model queries the database for the users. The model, like the controller, is just plain Ruby code, but because it [inherits](google.com) from the powerful [ActiveRecord class, Base](https://github.com/brettshollenberger/ruby_wiki/blob/master/Writing%20a%20Rails%20Model.md), the model can translate this plain Ruby into the right [SQL](google.com) request for us. The database is happy to oblige a speaker of its native tongue, and sends back the users to the model. 
+4) The model queries the database for the users. The model, like the controller, is just plain Ruby code, but because it [inherits](google.com) from the powerful ActiveRecord class, Base, the model can translate this plain Ruby into the right [SQL](google.com) request for us. The database is happy to oblige a speaker of its native tongue, and sends back the users to the model. 
 
 5) Yet again, the model obediently returns the correct users to the controller. 
 
