@@ -14,7 +14,7 @@ First there was “rails new Foo” -- the next thing you know you’re adding �
 
 At Launch Academy we tend to use postgresql. So to save yourself a little extra work, make sure you include the --database flag when executing rails new.
 
-#### 2)  remove public/index
+#### 2)  remove public/index (Not applicable for Rails 4.0)
 
 Don’t be a noob. Remove that public index file!
 
@@ -34,9 +34,9 @@ This file holds some settings for your postgresql database. You will probably wa
 These are some common gems I’ve used:
 
     Gemfile
-    
-    gem ‘twitter-bootstrap-rails’
-    gem ‘simple-form’
+
+    gem 'twitter-bootstrap-rails'
+    gem 'simple_form'
 
        group :test, :development do
            gem 'rspec-rails'
@@ -46,14 +46,14 @@ These are some common gems I’ve used:
 
        group :test do
            gem 'factory_girl_rails'
-         gem ‘shoulda-matchers’
+         gem 'shoulda-matchers'
        end
 
        group :development do    #access at rails/routes
            gem 'sextant'
        end
 
-       
+
 
 #### 6) rake db:create
 
@@ -69,11 +69,11 @@ A good chance to commit those changes! <code>git add *</code> will add all chang
 
 #### 9) rails g rspec:install (rails g bootstrap:install static)
 
-Install any gem generated scaffolds you may be using. Rspec is a must! Other examples could include bootstrap, or devise.   
+Install any gem generated scaffolds you may be using. Rspec is a must! Other examples could include bootstrap, or devise.
 
 #### 10) remove ~/test
 
-Remove that ~/test dir once you have Rspec setup. A clean app is a happy app.    
+Remove that ~/test dir once you have Rspec setup. A clean app is a happy app.
 
 #### 11) add to spec_helper.rb
 
