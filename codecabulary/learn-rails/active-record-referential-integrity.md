@@ -9,7 +9,7 @@ Data is the backbone of your application. Allow a user to enter bad data, and yo
 
 Data can be validated in a number of locations:
 
-* _On the front-end_ aka the form the user enters the data into. If you've ever entered data on a page that told you that you'd entered incorrect information before you'd even submitted it, you've been validated on the front-end. Front-end validations were traditionally performed via Javascript, and can now also be performed using HTML5. Check here for [Front-End Validations](http://google.com)
+* _On the front-end_ aka the form the user enters the data into. If you've ever entered data on a page that told you that you'd entered incorrect information before you'd even submitted it, you've been validated on the front-end. Front-end validations were traditionally performed via Javascript, and can now also be performed using HTML5. Check here for Front-End Validations
 * _In the model_. When Rails receives the form from the user, and before it passes it to the database, it can perform its own validations. Validations in the model layer can be very robust. 
 * _In the controller_. If you're coming from another object-oriented language, you may be tempted to perform validations in the controller. Ruby Buddha also advises to keep controllers skinny. Controller validations just ain't the Rails way.
 * _In the database_. Database validations are called _database constraints because they literally control what can and cannot be entered into the database. They should be your last line of defense against bad data.

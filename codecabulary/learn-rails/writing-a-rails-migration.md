@@ -2,7 +2,7 @@
 
 # Writing a Rails Migration
 
-Rails migrations are just Ruby code. In your [Rails app](http://google.com), your migrations are stored in `db/migrate` (relative to the Rails root). 
+Rails migrations are just Ruby code. In your Rails app, your migrations are stored in `db/migrate` (relative to the Rails root). 
 
 A migration, by definition, is a _change_ to the database schema, but the first change to make is to generate a table if you haven't already, which you can review in more detail at Writing a Rails Model. 
 
@@ -36,7 +36,7 @@ In our example:
 		
 For more info on this line, check out the section on Writing a Rails Model. 
 
-If we were writing a [constructive migration](http://google.com) like adding a column or a table, we'd want to name the method in the next line `change`. Since instead we're changing a column, we'll need to create two methods: `up` and `down` (where up is the change we want to make, and down is its inverse--a fallback in case we want to undo our changes). Check here for more details on Changing Migrations.
+If we were writing a constructive migration like adding a column or a table, we'd want to name the method in the next line `change`. Since instead we're changing a column, we'll need to create two methods: `up` and `down` (where up is the change we want to make, and down is its inverse--a fallback in case we want to undo our changes). Check here for more details on Changing Migrations.
 
 		def up
 			change_column :users, :username, :email
