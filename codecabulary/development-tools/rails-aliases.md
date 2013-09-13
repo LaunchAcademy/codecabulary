@@ -89,7 +89,7 @@ Define a gemset for this project. The redirection operator creates a new file wi
 
 Tell rvm which version of ruby to use.
 
-    echo 2.0 > .ruby-version
+    echo ruby-2.0 > .ruby-version
 
 Tell git to ignore our 'database.yml' file. We can append to the .git-ignore file using the '>>' redirection operator.
 
