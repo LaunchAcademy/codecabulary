@@ -34,7 +34,7 @@ Ok, so now you swapped out sqlite for postgres, rspec for unit-test. You're usin
       cd $1
 
       echo $1 > .ruby-gemset
-      echo 2.0 > .ruby-version
+      echo ruby-2.0 > .ruby-version
       echo /config/database.yml >> .gitignore
       cp config/database.yml config/database.example.yml
       sed "s/username: "$1"/username: /g" config/database.example.yml > config/database.yml
