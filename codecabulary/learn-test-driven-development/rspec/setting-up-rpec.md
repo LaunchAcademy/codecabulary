@@ -62,3 +62,9 @@ To download RSpec and get moving.
 * Use `--migration=false` to skip creation of migration files ( note that '-s' should take care of this )
 
 		rails g model ModelName -s --migration=false
+
+#### Updating the test database
+
+* Check for pending migrations and load the test schema
+
+    rake db:test:prepare
