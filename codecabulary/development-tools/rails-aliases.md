@@ -31,10 +31,12 @@ Ok, so now you swapped out sqlite for postgres, rspec for unit-test. You're usin
 
     function rails_pg() {
       rails new $1 -T -B --database=postgresql
+
+      echo $1 > "$1"/.ruby-gemset
+      echo ruby-2.0.0 > "$1"/.ruby-version
+
       cd $1
 
-      echo $1 > .ruby-gemset
-      echo ruby-2.0 > .ruby-version
       echo /config/database.yml >> .gitignore
       cp config/database.yml config/database.example.yml
       sed "s/username: "$1"/username: /g" config/database.example.yml > config/database.yml
@@ -79,17 +81,19 @@ Create a new rails project with a name passed in through as an argument ($1). Di
 
     rails new $1 -T -B --database=postgresql
 
-Change into the directory of our new project
-
-    cd $1
-
 Define a gemset for this project. The redirection operator creates a new file with the contents that are output by the 'echo' command, which, in this case, is the project name.
 
-    echo $1 > .ruby-gemset
+Note that defining a gemset will install all nessesary gems to that gemset.  Creation time will increase dramatically.
+
+    echo $1 > "$1"/.ruby-gemset
 
 Tell rvm which version of ruby to use.
 
-    echo ruby-2.0 > .ruby-version
+    echo ruby-2.0.0 > "$1"/.ruby-version
+
+Change into the directory of our new project
+
+    cd $1
 
 Tell git to ignore our 'database.yml' file. We can append to the .git-ignore file using the '>>' redirection operator.
 
