@@ -58,6 +58,7 @@ To download RSpec and get moving.
 
 #### Retroactively Adding RSpec to a Rails App
 
-Use the `-s` flag to signal spec generation and set the `--migration` flag to `false` so you don't create a duplicate model.
+* Use `-s` to skip editing existing files
+* Use `--migration=false` to skip creation of migration files ( note that '-s' should take care of this )
 
 		rails g model ModelName -s --migration=false
