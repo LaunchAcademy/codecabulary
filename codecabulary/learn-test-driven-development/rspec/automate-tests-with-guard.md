@@ -4,7 +4,7 @@
 
 Guard is a command line tool that watches a file structure and automates events when changes are made in those files. While Guard has many uses, this article explores how we can use RSpec and Guard together to automate tests.
 
-#### Installing Guard 
+#### Installing Guard
 
 Once you have RSpec setup in your Rails project, you're ready to add Guard.
 
@@ -15,7 +15,7 @@ Once you have RSpec setup in your Rails project, you're ready to add Guard.
 			gem 'capybara'
 			gem 'guard-rspec'
 		end
-		
+
 2) Add other :test group gems
 
 		group :test do
@@ -25,14 +25,13 @@ Once you have RSpec setup in your Rails project, you're ready to add Guard.
 
 3) `bundle`
 
-4) `bundle exec guard init spec`
+4) `guard init spec`
 
-5) Edit the Guardfile to add:
+5) To run:
 
-		require 'active_support/core_ext'
-		
-		guard 'spec, :all_after_pass => false do
-		
-6) To run:
+		`bundle exec guard`
 
-		bundle exec guard
+6) To exit:
+
+		`exit`
+
