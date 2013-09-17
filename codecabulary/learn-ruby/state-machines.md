@@ -8,8 +8,10 @@ Take a simple example of moderating a comment for a blog post. The user is able 
 
 First, install the state machine gem:
 
-  gem 'state_machine'
-  bundle
+```
+gem 'state_machine'
+bundle
+```
 
 Don't forget to add <code>state</code> to your model (string).
 
