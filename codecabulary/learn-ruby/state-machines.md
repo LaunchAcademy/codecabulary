@@ -14,7 +14,7 @@ First, install the state machine gem:
 Don't forget to add <code>state</code> to your model (string).
 
 Then edit your model to include states:
-'''ruby
+```ruby
 state_machine :initial => :approved do
   state :approved
   state :flagged
@@ -32,12 +32,12 @@ state_machine :initial => :approved do
     transition :flagged => :removed
   end
 end
-'''
+```
   Using the all transition means that you can approve a comment no matter what state your record is.
 
   Congratulations, you just created a state machine! Now you could perform actions such as:
-'''ruby
+```ruby
 comment.approve
 comment.flag
 comment.remove
-'''
+```
