@@ -10,12 +10,16 @@ First, install the state machine gem:
 
 ```
 gem 'state_machine'
+```
+
+```
 bundle
 ```
 
 Don't forget to add <code>state</code> to your model (string).
 
 Then edit your model to include states:
+
 ```ruby
 state_machine :initial => :approved do
   state :approved
@@ -38,6 +42,7 @@ end
   Using the all transition means that you can approve a comment no matter what state your record is.
 
   Congratulations, you just created a state machine! Now you could perform actions such as:
+
 ```ruby
 comment.approve
 comment.flag
