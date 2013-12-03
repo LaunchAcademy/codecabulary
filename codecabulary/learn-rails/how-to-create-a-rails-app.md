@@ -16,9 +16,13 @@ At Launch Academy we tend to use postgresql. So to save yourself a little extra 
 
 The -T flag is short for --skip-test-unit (which is helpful since we usually delete the test directory anyway).
 
-#### 2)  remove public/index (Not applicable for Rails 4.0)
+#### 2)  remove turbolinks in Rails 4.x -- for Rails 3.x, make sure you remove the public/index.html
 
-Don’t be a noob. Remove that public index file!
+How to remove Turbolinks:
+
+1. Remove the gem 'turbolinks' line from your Gemfile.
+2. Remove the //= require turbolinks from your app/assets/javascripts/application.js.
+3. Remove the two "data-turbolinks-track" => true hash key/value pairs from your app/views/layouts/application.html.erb.
 
 #### 3) git init
 
@@ -37,8 +41,8 @@ These are some common gems I’ve used:
 
     Gemfile
 
-    gem 'twitter-bootstrap-rails'
-    gem 'simple_form'
+    gem ‘twitter-bootstrap-rails’
+    gem ‘simple-form’
 
        group :test, :development do
            gem 'rspec-rails'
@@ -48,7 +52,7 @@ These are some common gems I’ve used:
 
        group :test do
            gem 'factory_girl_rails'
-         gem 'shoulda-matchers'
+         gem ‘shoulda-matchers’
        end
 
        group :development do    #access at rails/routes
@@ -75,7 +79,7 @@ Install any gem generated scaffolds you may be using. Rspec is a must! Other exa
 
 #### 10) remove ~/test
 
-Remove that ~/test dir once you have Rspec setup. A clean app is a happy app.
+Remove that ~/test dir once you have Rspec setup. A clean app is a happy app. If you used the -T flag while creating the rails app, you can skip this step.
 
 #### 11) add to spec_helper.rb
 
@@ -105,7 +109,7 @@ Commit before migrating: JUST IN CASE!
 
 #### 16) rake db:migrate ; rake db:rollback ; rake db:migrate
 
-Use this command to double check that your tables / migrations are correctly configured. This is a best practices sort of deal.
+Use this command to double check that your tables / migrations are correctly configured. This is a best practices sort of deal. If you're using zsh, I'd highly recommend making an alias for this command!
 
 #### 16.5) rake db:test:prepare
 
@@ -115,9 +119,15 @@ This command generates the test environment that Rspec uses. You’ll need to re
 
 Don’t forget to commit after you Migrate!
 
+#### Extras: add database.yml and secret_token.rb to your .gitginore
+
+This is just a good habit to get into. When others fork your repos, having special database settings can give them a headache when trying to check out your code. Do them a favor and tell git to ignore that file. Another file to add is the secret_token.rb -- it's called that for a reason! It's supposed to be secret! Protect your users by hiding this file.
+
+In your .gitignore file add the lines:
+
+    /config/database.yml
+    /config/secret_token.rb
+
 ===
 
 ### From here you can do whatever you’d like, and you shouldn’t break your app too much. Have fun!
-
-
-
