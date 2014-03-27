@@ -55,9 +55,6 @@
 #### Scripting
     result = page.evaluate_script('4 + 4');
 
-#### Debugging
-    save_and_open_page
-
 #### Asynchronous JavaScript
     click_link('foo')
     click_link('bar')
