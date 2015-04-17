@@ -1,7 +1,5 @@
 #GIT Shortcuts
 
-[Git][section-mmd-tables-table1]
-
 | Keys  | Description |
 | ------------ | ----------- |
 | git status        | Status of Local |
