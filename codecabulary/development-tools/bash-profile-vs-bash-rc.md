@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools/bash-profile-vs-bash-rc
+title: bash_profile & .bashrc
+---
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / bash_profile & .bashrc
 
 <!-- ---title: bash_profile & .bashrc -->

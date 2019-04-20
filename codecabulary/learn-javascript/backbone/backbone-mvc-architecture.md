@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-javascript/backbone/backbone-mvc-architecture
+title: Backbone.js MVC Architecture
+---
 <!-- ---title: Backbone.js MVC Architecture -->
 
 Like other front-end frameworks, Backbone uses the Front Controller design pattern, which layers the MVC stack behind a single point of entry. The Front Controller handles routing, pairing HTTP requests with controller actions, and passing off the request to the appropriate controller.

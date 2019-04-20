@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools/symlink
+title: Symbolic Links (symlinks)
+---
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Symbolic Links
 
 <!-- ---title: Symbolic Links (symlinks) -->

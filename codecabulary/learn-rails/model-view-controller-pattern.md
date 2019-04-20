@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/model-view-controller-pattern
+title: Model View Controller Pattern
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Model View Controller Pattern
 
 <!-- ---title: Model View Controller Pattern -->

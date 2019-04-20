@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/array-iterators
+title: Array Iterators
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Iterators
 
 <!-- ---title: Array Iterators -->

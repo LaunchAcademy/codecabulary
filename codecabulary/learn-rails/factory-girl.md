@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/factory-girl
+title: Factory Girl
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Factory Girl
 
 <!-- ---title: Factory Girl -->

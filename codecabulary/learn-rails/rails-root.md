@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/rails-root
+title: Rails Root
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Root
 
 <!-- ---title: Rails Root -->

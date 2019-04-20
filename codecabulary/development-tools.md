@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools
+title: Development Tools
+---
 <!-- ---title: Development Tools -->
 
 [[Codecabulary Home|codecabulary]] / Development Tools

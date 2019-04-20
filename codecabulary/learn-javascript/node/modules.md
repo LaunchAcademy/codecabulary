@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-javascript/node/modules
+title: Node.js Modules
+---
 <!-- ---title: Node.js Modules -->
 
 Users of node's libraries assign the libraries to variables, and call functions on the public interface on those variables, like so:

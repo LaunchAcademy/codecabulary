@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-git
+title: Learn Git
+---
 <!-- ---title: Learn Git -->
 [[Codecabulary Home|codecabulary]] / Learn Git
 

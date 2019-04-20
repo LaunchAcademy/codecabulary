@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/partials
+title: Partials
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Partials
 
 <!-- ---title: Partials -->

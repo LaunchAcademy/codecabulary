@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools/pwd
+title: pwd
+---
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / pwd
 
 <!-- ---title: pwd -->

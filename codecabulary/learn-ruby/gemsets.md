@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/gemsets
+title: Gemsets
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Gemsets
 
 <!-- ---title: Gemsets -->

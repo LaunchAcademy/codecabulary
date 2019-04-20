@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/active-record-referential-integrity
+title: Active Record Referential Integrity
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record Referential Integrity
 
 <!-- ---title: Active Record Referential Integrity -->

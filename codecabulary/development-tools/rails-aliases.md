@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools/rails-aliases
+title: Rails Aliases
+---
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Rails Aliases
 
 <!-- ---title: Rails Aliases -->

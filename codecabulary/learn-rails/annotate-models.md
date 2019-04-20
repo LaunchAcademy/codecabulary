@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/annotate-models
+title: Annotate Models
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Annotate Models
 
 <!-- ---title: Annotate Models -->

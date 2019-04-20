@@ -1,3 +1,7 @@
+---
+path: /codecabulary/API
+title: API
+---
 <!-- ---title: API -->
 
 Application programming interfaces (APIs) can seem confusing--in a theoretical sense, we say they're a set of standards, like Morse code or the periodic table; in our day-to-day endeavors, we see a different type of thing: a RESTful web API might actually be a portal to perform CRUD operations on a dataset, and a keyboard or mouse might be conceived of as a primary interface to a type of program. What ties these concepts together?

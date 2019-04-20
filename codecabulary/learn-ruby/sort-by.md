@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/sort-by
+title: Ruby Sort By
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Sort By
 
 <!-- ---title: Ruby Sort By -->

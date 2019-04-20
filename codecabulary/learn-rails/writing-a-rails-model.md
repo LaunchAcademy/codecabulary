@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/writing-a-rails-model
+title: Writing a Rails Model
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Writing a Rails Model
 
 <!-- ---title: Writing a Rails Model -->

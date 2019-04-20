@@ -1,3 +1,6 @@
+---
+path: /codecabulary/learn-rails
+---
 <!-- ---title: Learn Rails --->
 
 [[Codecabulary Home|codecabulary]] / Learn Rails

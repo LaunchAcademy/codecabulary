@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/observer-pattern
+title: Observer Pattern
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Observer Pattern
 
 <!-- ---title: Observer Pattern -->

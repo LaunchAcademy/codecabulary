@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-git/remote-repositories
+title: 'Git Basics: Remote Repositories'
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Remote Repositories
 
 <!-- ---title: Git Basics: Remote Repositories -->

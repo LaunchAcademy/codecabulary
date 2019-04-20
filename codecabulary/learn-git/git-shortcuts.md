@@ -1,3 +1,6 @@
+---
+path: /codecabulary/learn-git/git-shortcuts
+---
 #GIT Shortcuts
 
 | Keys  | Description |

@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/fetch-vs-key-lookup
+title: Fetch vs. Key Lookup
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Fetch vs. Key Lookup
 
 <!-- ---title: Fetch vs. Key Lookup -->

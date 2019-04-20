@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/migration-methods
+title: Migration Methods
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migration Methods
 
 <!-- ---title: Migration Methods -->

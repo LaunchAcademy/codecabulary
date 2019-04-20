@@ -1,3 +1,7 @@
+---
+path: /codecabulary/developer-branding
+title: Developer Branding
+---
 <!-- ---title: Developer Branding -->
 [[Codecabulary Home|codecabulary]] / Developer Branding
 

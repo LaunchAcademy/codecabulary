@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/inverse-associations
+title: Inverse Associations
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Inverse Associations
 
 <!-- ---title: Inverse Associations -->

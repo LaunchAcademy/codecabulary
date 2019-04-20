@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-rails/how-to-create-a-rails-app
+title: How To Create a Rails App
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / How To Create a Rails App
 
 <!-- ---title: How To Create a Rails App -->

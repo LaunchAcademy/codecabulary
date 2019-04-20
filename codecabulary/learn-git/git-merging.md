@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-git/git-merging
+title: Git Merges
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Git Merges
 
 <!-- ---title: Git Merges -->

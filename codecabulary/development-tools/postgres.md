@@ -1,3 +1,7 @@
+---
+path: /codecabulary/development-tools/postgres
+title: Postgres
+---
 [[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Postgres
 
 <!-- ---title: Postgres -->

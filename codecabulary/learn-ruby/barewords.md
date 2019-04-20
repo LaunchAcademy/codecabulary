@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/barewords
+title: Barewords
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Barewords
 
 <!-- ---title: Barewords -->

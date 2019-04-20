@@ -1,3 +1,7 @@
+---
+path: /codecabulary/learn-ruby/gems
+title: Gems
+---
 [[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Gems
 
 <!-- ---title: Gems -->

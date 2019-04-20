@@ -1,3 +1,6 @@
+---
+path: /codecabulary/learn-javascript
+---
 <!-- --- title: Learn JavaScript -->
 
 [[Codecabulary Home|codecabulary]] / Learn JavaScript

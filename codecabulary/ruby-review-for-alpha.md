@@ -1,3 +1,6 @@
+---
+path: /codecabulary/ruby-review-for-alpha
+---
 # Alpha Ruby Review
 
 ## Important Classes and Methods
