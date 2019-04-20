@@ -8,16 +8,13 @@ glob(path.join(__dirname, "./codecabulary/**/*.md"), function (er, files) {
     const linkRegex = /\[\[([^\[]*)\|([^\]\[]*)\]\]/g
     let fileContents = fs.readFileSync(file).toString()
     while(result = linkRegex.exec(fileContents)) {
-      fileContents = fileContents.replace(result[0], `[${result[1]}](${result[2]})`)
+      let link = result[2]
+      if(result[2].startsWith("codecabulary")) {
+        link = "/" + link
+      }
+      fileContents = fileContents.replace(result[0], `[${result[1]}](${link})`)
     }
 
-    console.log(fileContents)
-    // if(results) {
-    //   for(const result of results) {
-    //     console.log(typeof result)
-    //     
-    //   }
-    //   // console.log(fileContents)
-    // }
+    fs.writeFileSync(file, fileContents, {flag: "w"})
   }
 })
