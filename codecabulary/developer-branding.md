@@ -3,6 +3,6 @@ path: /codecabulary/developer-branding
 title: Developer Branding
 ---
 <!-- ---title: Developer Branding -->
-[[Codecabulary Home|codecabulary]] / Developer Branding
+[Codecabulary Home](/codecabulary) / Developer Branding
 
-* [[Creating a Good GitHub Page|/codecabulary/developer-branding/creating-a-good-github-page]]
+* [Creating a Good GitHub Page](/codecabulary/developer-branding/creating-a-good-github-page)

@@ -2,7 +2,7 @@
 path: /codecabulary/learn-test-driven-development/rspec/capybara-cheat-sheet
 title: Capybara Cheat Sheet
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Capybara Cheat Sheet
+[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/codecabulary/learn-test-driven-development/rspec) / Capybara Cheat Sheet
 
 <!-- ---title: Capybara Cheat Sheet -->
 

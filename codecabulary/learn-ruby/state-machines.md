@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/state-machines
 title: State Machines
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / State Machines
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / State Machines
 
 <!-- ---title: State Machines -->
 

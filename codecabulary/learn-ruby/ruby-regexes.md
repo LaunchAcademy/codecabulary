@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/ruby-regexes
 title: Ruby Regexes
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Regexes
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Ruby Regexes
 
 <!-- ---title: Ruby Regexes -->
 

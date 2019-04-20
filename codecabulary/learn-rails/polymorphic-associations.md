@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/polymorphic-associations
 title: Polymorphic Associations
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Polymorphic Associations
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Polymorphic Associations
 
 <!-- ---title: Polymorphic Associations -->
 

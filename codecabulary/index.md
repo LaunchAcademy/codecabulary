@@ -7,13 +7,13 @@ Codecabulary is our community-driven initiative to share beginner-friendly resou
 
 ## Resources:
 
-* [[Learn Rails|/codecabulary/learn-rails]]
-* [[Learn Ruby|/codecabulary/learn-ruby]]
-* [[Learn Test Driven Development|codecabulary/learn-test-driven-development]]
-* [[Learn Git|/codecabulary/learn-git]]
-* [[Learn JavaScript|/codecabulary/learn-javascript]]
-* [[Development Tools|/codecabulary/development-tools]]
-* [[Developer Branding|/codecabulary/developer-branding]]
+* [Learn Rails](/codecabulary/learn-rails)
+* [Learn Ruby](/codecabulary/learn-ruby)
+* [Learn Test Driven Development](/codecabulary/learn-test-driven-development)
+* [Learn Git](/codecabulary/learn-git)
+* [Learn JavaScript](/codecabulary/learn-javascript)
+* [Development Tools](/codecabulary/development-tools)
+* [Developer Branding](/codecabulary/developer-branding)
 
 ## Contributions and License
 

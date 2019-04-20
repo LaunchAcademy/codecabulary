@@ -2,7 +2,7 @@
 path: /codecabulary/learn-javascript/Javascript this
 title: Javascript this
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / this
+[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / this
 
 
 <!-- ---title: Javascript this -->

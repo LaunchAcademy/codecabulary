@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/naming-migrations
 title: Migration Naming Convention
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Migration Naming Convention
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Migration Naming Convention
 
 <!-- ---title: Migration Naming Convention -->
 

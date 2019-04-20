@@ -2,7 +2,7 @@
 path: /codecabulary/learn-test-driven-development/rspec
 title: RSpec
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / RSpec
+[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / RSpec
 
 <!-- ---title: RSpec -->
 

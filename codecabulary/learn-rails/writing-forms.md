@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/writing-forms
 title: How to Write Rails Forms
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / How to Write Rails Forms
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / How to Write Rails Forms
 
 <!-- ---title: How to Write Rails Forms -->
 

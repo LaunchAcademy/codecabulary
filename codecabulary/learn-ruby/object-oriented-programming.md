@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/object-oriented-programming
 title: Object-Oriented Programming
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Object-Oriented Programming
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Object-Oriented Programming
 
 <!-- ---title: Object-Oriented Programming -->
 

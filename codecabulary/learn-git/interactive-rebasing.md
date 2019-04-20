@@ -2,7 +2,7 @@
 path: /codecabulary/learn-git/interactive-rebasing
 title: Interactive Rebasing
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Interactive Rebasing
+[Codecabulary Home](/codecabulary) / [Learn Git](/codecabulary/learn-git) / Interactive Rebasing
 
 <!-- ---title: Interactive Rebasing -->
 

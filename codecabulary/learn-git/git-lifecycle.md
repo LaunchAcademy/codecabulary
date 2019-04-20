@@ -2,7 +2,7 @@
 path: /codecabulary/learn-git/git-lifecycle
 title: The Git Lifecycle
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / The Git Lifecycle
+[Codecabulary Home](/codecabulary) / [Learn Git](/codecabulary/learn-git) / The Git Lifecycle
 
 <!-- ---title: The Git Lifecycle -->
 

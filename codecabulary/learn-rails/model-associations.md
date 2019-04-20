@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/model-associations
 title: Rails Model Associations
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Model Associations
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Rails Model Associations
 
 <!-- ---title: Rails Model Associations -->
 

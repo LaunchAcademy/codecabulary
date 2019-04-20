@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/rails-router
 title: Rails Router
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Router
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Rails Router
 
 <!-- ---title: Rails Router -->
 

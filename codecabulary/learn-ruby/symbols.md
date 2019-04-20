@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/symbols
 title: Symbols
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Symbols
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Symbols
 
 <!-- ---title: Symbols -->
 

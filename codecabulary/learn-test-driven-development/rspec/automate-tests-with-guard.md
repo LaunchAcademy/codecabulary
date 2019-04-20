@@ -2,7 +2,7 @@
 path: /codecabulary/learn-test-driven-development/rspec/automate-tests-with-guard
 title: Automate Tests with Guard
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Automate Tests with Guard
+[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/codecabulary/learn-test-driven-development/rspec) / Automate Tests with Guard
 
 <!-- ---title: Automate Tests with Guard -->
 

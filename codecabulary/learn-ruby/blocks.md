@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/blocks
 title: Blocks
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Blocks
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Blocks
 
 <!-- ---title: Blocks -->
 

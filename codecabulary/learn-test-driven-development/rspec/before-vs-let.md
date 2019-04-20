@@ -2,7 +2,7 @@
 path: /codecabulary/learn-test-driven-development/rspec/before-vs-let
 title: RSpec before vs let
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / RSpec before vs let
+[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/codecabulary/learn-test-driven-development/rspec) / RSpec before vs let
 
 <!-- ---title: RSpec before vs let -->
 

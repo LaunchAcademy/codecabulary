@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/active-record
 title: Active Record
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Active Record
 
 <!-- ---title: Active Record -->
 

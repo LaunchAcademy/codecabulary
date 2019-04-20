@@ -2,7 +2,7 @@
 path: /codecabulary/learn-javascript/objects
 title: Javascript Objects
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Objects
+[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / Objects
 
 <!-- ---title: Javascript Objects -->
 

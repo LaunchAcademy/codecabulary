@@ -2,7 +2,7 @@
 path: /codecabulary/learn-ruby/array-style
 title: 'Arrays '
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Style
+[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Array Style
 
 <!-- ---title: Arrays  -->
 

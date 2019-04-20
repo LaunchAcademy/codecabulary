@@ -2,7 +2,7 @@
 path: /codecabulary/learn-rails/database-indices
 title: Database Indices
 ---
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Database Indices
+[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Database Indices
 
 <!-- ---title: Database Indices -->
 
