@@ -1,9 +1,9 @@
 {
   "name": "@launchacademy/codecabulary",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A knowledge base for aspiring developers",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dan Pickett <dan.pickett@launchacademy.com>",
   "dependencies": {
     "@launchacademy/dyson_sphere": "^0.1.1",
     "gatsby": "^2.3.25",

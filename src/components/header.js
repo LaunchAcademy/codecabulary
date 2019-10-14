@@ -2,42 +2,63 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import "../sass/application.scss"
+import Img from "gatsby-image"
+import { useStaticQuery, graphql } from "gatsby"
 
-const Header = ({ siteTitle }) => (
-  <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
-  >
-    <div
-      style={{
-        margin: `0 auto`,
-        maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-    </div>
-  </header>
-)
+const Header = (props) => {
+  const data = useStaticQuery(graphql`
+    query {
+      file(relativePath: { eq: "launch-logo.png" }) {
+        childImageSharp {
+          # Specify the image processing specifications right in the query.
+          # Makes it trivial to update as your page's design changes.
+          fixed(width: 60, height: 60) {
+            src,
+            width,
+            height
+          }
+        }
+      }
+    }
+  `)
+  return (
+  <div className="contain-to-grid full-top-bar">
+  <nav className="top-bar" data-topbar role="navigation">
+    <ul className="title-area">
+      <li className="name">
+        <a href="https://launchacademy.com">
+          <img className="logo" src={data.file.childImageSharp.fixed.src} />
+        </a>
+        <h1>
+          <a href="https://launchacademy.com">
+            Launch
+            <strong>Academy</strong>
+          </a>
+        </h1>
+      </li>
+      <li className="toggle-topbar menu-icon">
+        <a href="#">
+          <span></span>
+        </a>
+      </li>
+    </ul>
+    <section className="top-bar-section">
+      <ul className="left">
+        <li>
+          <a href="/codecabulary">Codecabulary</a>
+        </li>
+      </ul>
+      <ul className="right">
+        <li>
+          <a href="https://github.com/launchacademy/codecabulary">Github</a>
+        </li>
+      </ul>
+    </section>
+  </nav>
+</div>)
 
-Header.propTypes = {
-  siteTitle: PropTypes.string,
 }
 
-Header.defaultProps = {
-  siteTitle: ``,
-}
+
 
 export default Header
