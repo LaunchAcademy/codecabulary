@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Dan Pickett <dan.pickett@launchacademy.com>",
   "dependencies": {
-    "@launchacademy/dyson_sphere": "^0.1.1",
+    "@launchacademy/dyson_sphere": "launchacademy/dyson_sphere",
     "gatsby": "^2.3.25",
     "gatsby-image": "^2.0.39",
     "gatsby-plugin-force-file-loader": "^0.1.0",
