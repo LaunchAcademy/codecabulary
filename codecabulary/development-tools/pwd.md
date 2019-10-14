@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/development-tools/pwd
+path: /development-tools/pwd
 title: pwd
 ---
-[Codecabulary Home](/codecabulary) / [Development Tools](/codecabulary/development-tools) / pwd
+[Codecabulary Home](/) / [Development Tools](/development-tools) / pwd
 
 <!-- ---title: pwd -->
 

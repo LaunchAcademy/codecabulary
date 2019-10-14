@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/ruby-review-for-alpha
+path: /ruby-review-for-alpha
 ---
 # Alpha Ruby Review
 

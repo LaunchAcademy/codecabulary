@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-html/use-svg-for-infinite-image-scalability
+path: /learn-html/use-svg-for-infinite-image-scalability
 title: Why We Should be Using SVG
 ---
-[Codecabulary Home](/codecabulary) / [Learn Git](/codecabulary/learn-html) / Use SVG For Infinite Image Scalability
+[Codecabulary Home](/) / [Learn Git](/learn-html) / Use SVG For Infinite Image Scalability
 
 <!-- ---title: Why We Should be Using SVG -->
 

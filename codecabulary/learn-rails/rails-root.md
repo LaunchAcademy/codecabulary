@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/rails-root
+path: /learn-rails/rails-root
 title: Rails Root
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Rails Root
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Rails Root
 
 <!-- ---title: Rails Root -->
 

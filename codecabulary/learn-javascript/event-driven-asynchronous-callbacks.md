@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-javascript/event-driven-asynchronous-callbacks
+path: /learn-javascript/event-driven-asynchronous-callbacks
 title: 'Event-Driven, Asynchronous Callbacks'
 ---
-[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / Event-Driven, Asynchronous Callbacks
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / Event-Driven, Asynchronous Callbacks
 
 <!-- ---title: Event-Driven, Asynchronous Callbacks -->
 

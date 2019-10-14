@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-javascript/backbone/marionette-applications
+path: /learn-javascript/backbone/marionette-applications
 title: Backbone and Marionette on Rails
 ---
 <!-- ---title: Backbone and Marionette on Rails -->

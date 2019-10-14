@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/development-tools/type-which-and-whereis
+path: /development-tools/type-which-and-whereis
 title: 'type, which, and whereis'
 ---
-[Codecabulary Home](/codecabulary) / [Development Tools](/codecabulary/development-tools) / Type, Which, and Whereis
+[Codecabulary Home](/) / [Development Tools](/development-tools) / Type, Which, and Whereis
 
 <!-- ---title: type, which, and whereis -->
 

@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-javascript/backbone/backbone-mvc-architecture
+path: /learn-javascript/backbone/backbone-mvc-architecture
 title: Backbone.js MVC Architecture
 ---
 <!-- ---title: Backbone.js MVC Architecture -->

@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-javascript/node/node
+path: /learn-javascript/node/node
 title: Node
 ---
 <!-- ---title: Node -->

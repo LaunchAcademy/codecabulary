@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/development-tools/dotfiles
+path: /development-tools/dotfiles
 title: Dotfiles
 ---
-[Codecabulary Home](/codecabulary) / [Development Tools](/codecabulary/development-tools) / Dotfiles
+[Codecabulary Home](/) / [Development Tools](/development-tools) / Dotfiles
 
 <!-- ---title: Dotfiles -->
 

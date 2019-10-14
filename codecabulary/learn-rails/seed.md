@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/seed
+path: /learn-rails/seed
 title: seed.rb
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / seed.rb
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / seed.rb
 
 
 <!-- ---title: seed.rb -->

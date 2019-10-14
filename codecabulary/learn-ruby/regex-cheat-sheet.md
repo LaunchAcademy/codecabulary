@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/regex-cheat-sheet
+path: /learn-ruby/regex-cheat-sheet
 title: Regexes
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Regex Cheat Sheet
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Regex Cheat Sheet
 
 <!-- ---title: Regexes -->
 

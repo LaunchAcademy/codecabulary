@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-test-driven-development/rspec
+path: /learn-test-driven-development/rspec
 title: RSpec
 ---
-[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / RSpec
+[Codecabulary Home](/) / [Learn Test Driven Development](/learn-test-driven-development) / RSpec
 
 <!-- ---title: RSpec -->
 

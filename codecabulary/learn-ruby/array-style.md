@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/array-style
+path: /learn-ruby/array-style
 title: 'Arrays '
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Array Style
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Array Style
 
 <!-- ---title: Arrays  -->
 

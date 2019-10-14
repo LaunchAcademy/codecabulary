@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-javascript/backbone/backbone-models
+path: /learn-javascript/backbone/backbone-models
 title: Backbone Models
 ---
 

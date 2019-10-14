@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/API
+path: /API
 title: API
 description: "What is an application programming interface (API)? Find out in this article"
 ---

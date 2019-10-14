@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/developer-branding/creating-a-good-github-page
+path: /developer-branding/creating-a-good-github-page
 title: Creating A Good GitHub Page
 ---
-[Codecabulary Home](/codecabulary) / [Developer Branding](/codecabulary/developer-branding) / Creating a Good GitHub Page
+[Codecabulary Home](/) / [Developer Branding](/developer-branding) / Creating a Good GitHub Page
 
 <!-- ---title: Creating A Good GitHub Page -->
 

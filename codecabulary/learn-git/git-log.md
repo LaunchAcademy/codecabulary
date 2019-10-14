@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-git/git-log
+path: /learn-git/git-log
 title: Git Log
 ---
-[Codecabulary Home](/codecabulary) / [Learn Git](/codecabulary/learn-git) / Git Log
+[Codecabulary Home](/) / [Learn Git](/learn-git) / Git Log
 
 <!-- ---title: Git Log -->
 

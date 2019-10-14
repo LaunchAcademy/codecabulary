@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/namespaced-routes
+path: /learn-rails/namespaced-routes
 title: Namespaced Routes
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Namespaced Routes
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Namespaced Routes
 
 <!-- ---title: Namespaced Routes -->
 

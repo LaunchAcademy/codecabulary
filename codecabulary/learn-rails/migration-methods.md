@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/migration-methods
+path: /learn-rails/migration-methods
 title: Migration Methods
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Migration Methods
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Migration Methods
 
 <!-- ---title: Migration Methods -->
 

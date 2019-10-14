@@ -45,7 +45,7 @@ const Header = (props) => {
     <section className="top-bar-section">
       <ul className="left">
         <li>
-          <a href="/codecabulary">Codecabulary</a>
+          <a href="/">Codecabulary</a>
         </li>
       </ul>
       <ul className="right">

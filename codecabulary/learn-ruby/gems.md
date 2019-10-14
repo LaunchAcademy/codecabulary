@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/gems
+path: /learn-ruby/gems
 title: Gems
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Gems
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Gems
 
 <!-- ---title: Gems -->
 

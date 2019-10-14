@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/array-methods
+path: /learn-ruby/array-methods
 title: Array Methods
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Array Methods
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Array Methods
 
 <!-- ---title: Array Methods -->
 

@@ -1,6 +1,6 @@
 ---
 path: >-
-  /codecabulary/learn-javascript/angular/template-method-pattern-in-angular-templates
+  /learn-javascript/angular/template-method-pattern-in-angular-templates
 title: Template Method Pattern in Angular Templates
 ---
 <!-- ---title: Template Method Pattern in Angular Templates -->

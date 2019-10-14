@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/symbols
+path: /learn-ruby/symbols
 title: Symbols
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Symbols
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Symbols
 
 <!-- ---title: Symbols -->
 

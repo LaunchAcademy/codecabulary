@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-git/git-shortcuts
+path: /learn-git/git-shortcuts
 ---
 #GIT Shortcuts
 

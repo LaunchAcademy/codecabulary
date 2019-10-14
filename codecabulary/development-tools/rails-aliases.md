@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/development-tools/rails-aliases
+path: /development-tools/rails-aliases
 title: Rails Aliases
 ---
-[Codecabulary Home](/codecabulary) / [Development Tools](/codecabulary/development-tools) / Rails Aliases
+[Codecabulary Home](/) / [Development Tools](/development-tools) / Rails Aliases
 
 <!-- ---title: Rails Aliases -->
 ================================

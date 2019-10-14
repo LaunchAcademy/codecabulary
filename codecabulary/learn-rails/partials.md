@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/partials
+path: /learn-rails/partials
 title: Partials
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Partials
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Partials
 
 <!-- ---title: Partials -->
 

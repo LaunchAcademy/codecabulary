@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/migrations
+path: /learn-rails/migrations
 title: Migrations
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Migrations
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Migrations
 
 <!-- ---title: Migrations -->
 

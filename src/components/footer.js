@@ -6,7 +6,7 @@ const Footer = (props) => {
 <div className='columns'>
 <ul>
 <li><a href="https://launchacademy.com/blog">Blog</a></li>
-<li><a href="https://launchacademy.com/codecabulary">Codecabulary</a></li>
+<li><a href="https://codecabulary.launchacademy.com/">Codecabulary</a></li>
 <li><a href="https://launchacademy.com/team">Team</a></li>
 <li><a href="https://launchacademy.com/#contact-us-section">Contact Us</a></li>
 <li><a href="https://launchacademy.com/privacy_policy">Privacy</a></li>

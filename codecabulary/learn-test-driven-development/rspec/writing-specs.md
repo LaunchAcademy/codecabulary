@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-test-driven-development/rspec/writing-specs
+path: /learn-test-driven-development/rspec/writing-specs
 title: Writing Specs in RSpec
 ---
-[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/codecabulary/learn-test-driven-development/rspec) / Writing Specs in RSpec
+[Codecabulary Home](/) / [Learn Test Driven Development](/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/learn-test-driven-development/rspec) / Writing Specs in RSpec
 
 <!-- ---title: Writing Specs in RSpec -->
 

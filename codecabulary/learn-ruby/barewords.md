@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-ruby/barewords
+path: /learn-ruby/barewords
 title: Barewords
 ---
-[Codecabulary Home](/codecabulary) / [Learn Ruby](/codecabulary/learn-ruby) / Barewords
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Barewords
 
 <!-- ---title: Barewords -->
 

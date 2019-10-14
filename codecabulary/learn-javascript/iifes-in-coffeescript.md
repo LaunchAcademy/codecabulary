@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-javascript/iifes-in-coffeescript
+path: /learn-javascript/iifes-in-coffeescript
 title: IIFEs in CoffeeScript
 ---
-[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / IIFEs
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / IIFEs
 
 <!-- ---title: IIFEs in CoffeeScript -->
 

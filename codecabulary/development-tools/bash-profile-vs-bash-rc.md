@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/development-tools/bash-profile-vs-bash-rc
+path: /development-tools/bash-profile-vs-bash-rc
 title: bash_profile & .bashrc
 ---
-[Codecabulary Home](/codecabulary) / [Development Tools](/codecabulary/development-tools) / bash_profile & .bashrc
+[Codecabulary Home](/) / [Development Tools](/development-tools) / bash_profile & .bashrc
 
 <!-- ---title: bash_profile & .bashrc -->
 
@@ -16,7 +16,7 @@ By default, these files do not exist on Mac OSX. If you want to run functions fr
   #> touch .bashrc
 ```
 
-These files will then appear in your home directory. For information on how to view invisible files (all dotfiles are invisible by default) view Codecabulary: [Dotfiles](/codecabulary/development-tools/dotfiles).
+These files will then appear in your home directory. For information on how to view invisible files (all dotfiles are invisible by default) view Codecabulary: [Dotfiles](/development-tools/dotfiles).
 
 You can now edit these files (they're blank by default) using your favorite text editor. Sublime Text, the Launch Academy editor of choice, can be run from the command line by typing:
 

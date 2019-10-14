@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-javascript/objects
+path: /learn-javascript/objects
 title: Javascript Objects
 ---
-[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / Objects
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / Objects
 
 <!-- ---title: Javascript Objects -->
 

@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/views-cheat-sheet
+path: /learn-rails/views-cheat-sheet
 title: Rails Views Cheat Sheet
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Rails Views Cheat Sheet
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Rails Views Cheat Sheet
 
 <!-- ---title: Rails Views Cheat Sheet -->
 

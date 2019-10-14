@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-test-driven-development/rspec/setting-up-rpec
+path: /learn-test-driven-development/rspec/setting-up-rpec
 title: Setting Up RSpec
 ---
-[Codecabulary Home](/codecabulary) / [Learn Test Driven Development](/codecabulary/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/codecabulary/learn-test-driven-development/rspec) / Setting Up RSpec
+[Codecabulary Home](/) / [Learn Test Driven Development](/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/learn-test-driven-development/rspec) / Setting Up RSpec
 
 <!-- ---title: Setting Up RSpec -->
 

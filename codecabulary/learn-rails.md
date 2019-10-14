@@ -1,46 +1,46 @@
 ---
-path: /codecabulary/learn-rails
+path: /learn-rails
 ---
 <!-- ---title: Learn Rails --->
 
-[Codecabulary Home](/codecabulary) / Learn Rails
+[Codecabulary Home](/) / Learn Rails
 
 Our collection of Rails related resources.
 
-* [How To Create A Rails App](/codecabulary/learn-rails/how-to-create-a-rails-app)
-* [Rails Root](/codecabulary/learn-rails/rails-root)
-* [Model View Controller Pattern](/codecabulary/learn-rails/model-view-controller-pattern)
+* [How To Create A Rails App](/learn-rails/how-to-create-a-rails-app)
+* [Rails Root](/learn-rails/rails-root)
+* [Model View Controller Pattern](/learn-rails/model-view-controller-pattern)
 
 ### Models
 
-* [Active Record](/codecabulary/learn-rails/active-record)
-* [Writing A Rails Model](/codecabulary/learn-rails/writing-a-rails-model)
-* [Migrations](/codecabulary/learn-rails/migrations)
-* [Migration Methods](/codecabulary/learn-rails/migration-methods)
-* [Naming Migrations](/codecabulary/learn-rails/naming-migrations)
-* [Writing A Rails Migration](/codecabulary/learn-rails/writing-a-rails-migration)
-* [Database Sandboxing](/codecabulary/learn-rails/database-sandboxing)
-* [Database Indices](/codecabulary/learn-rails/database-indices)
-* [Factory Girl](/codecabulary/learn-rails/factory-girl)
-* [Model Associations](/codecabulary/learn-rails/model-associations)
-* [Active Record Referential Integrity](/codecabulary/learn-rails/active-record-referential-integrity)
-* [Inverse Associations](/codecabulary/learn-rails/inverse-associations)
-* [Polymorphic Associations](/codecabulary/learn-rails/polymorphic-associations)
-* [Seed](/codecabulary/learn-rails/seed)
-* [Annotate Models](/codecabulary/learn-rails/annotate-models)
-* [Encrypting Passwords](/codecabulary/learn-rails/encrypting-passwords)
+* [Active Record](/learn-rails/active-record)
+* [Writing A Rails Model](/learn-rails/writing-a-rails-model)
+* [Migrations](/learn-rails/migrations)
+* [Migration Methods](/learn-rails/migration-methods)
+* [Naming Migrations](/learn-rails/naming-migrations)
+* [Writing A Rails Migration](/learn-rails/writing-a-rails-migration)
+* [Database Sandboxing](/learn-rails/database-sandboxing)
+* [Database Indices](/learn-rails/database-indices)
+* [Factory Girl](/learn-rails/factory-girl)
+* [Model Associations](/learn-rails/model-associations)
+* [Active Record Referential Integrity](/learn-rails/active-record-referential-integrity)
+* [Inverse Associations](/learn-rails/inverse-associations)
+* [Polymorphic Associations](/learn-rails/polymorphic-associations)
+* [Seed](/learn-rails/seed)
+* [Annotate Models](/learn-rails/annotate-models)
+* [Encrypting Passwords](/learn-rails/encrypting-passwords)
 
 ### Controllers
 
-* [Fetch Vs Key Lookup](/codecabulary/learn-rails/fetch-vs-key-lookup)
+* [Fetch Vs Key Lookup](/learn-rails/fetch-vs-key-lookup)
 
 ### Routing
 
-* [Rails Router](/codecabulary/learn-rails/rails-router)
-* [Namespaced Routes](/codecabulary/learn-rails/namespaced-routes)
+* [Rails Router](/learn-rails/rails-router)
+* [Namespaced Routes](/learn-rails/namespaced-routes)
 
 ### Views
 
-* [Partials](/codecabulary/learn-rails/partials)
-* [Views Cheat Sheet](/codecabulary/learn-rails/views-cheat-sheet)
-* [Writing Forms](/codecabulary/learn-rails/writing-forms)
+* [Partials](/learn-rails/partials)
+* [Views Cheat Sheet](/learn-rails/views-cheat-sheet)
+* [Writing Forms](/learn-rails/writing-forms)

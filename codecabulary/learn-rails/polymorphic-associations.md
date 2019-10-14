@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-rails/polymorphic-associations
+path: /learn-rails/polymorphic-associations
 title: Polymorphic Associations
 ---
-[Codecabulary Home](/codecabulary) / [Learn Rails](/codecabulary/learn-rails) / Polymorphic Associations
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Polymorphic Associations
 
 <!-- ---title: Polymorphic Associations -->
 

@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/learn-javascript/node/modules
+path: /learn-javascript/node/modules
 title: Node.js Modules
 ---
 <!-- ---title: Node.js Modules -->

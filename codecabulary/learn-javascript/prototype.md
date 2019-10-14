@@ -1,8 +1,8 @@
 ---
-path: /codecabulary/learn-javascript/prototype
+path: /learn-javascript/prototype
 title: Javascript Prototype
 ---
-[Codecabulary Home](/codecabulary) / [Learn JavaScript](/codecabulary/learn-javascript) / Prototype
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / Prototype
 
 <!-- ---title: Javascript Prototype -->
 

@@ -1,6 +1,6 @@
 ---
 path: >-
-  /codecabulary/learn-javascript/angular/conditionally-apply-classes-with-ng-class
+  /learn-javascript/angular/conditionally-apply-classes-with-ng-class
 title: Conditionally Apply Classes with ng-class
 ---
 <!-- ---title: Conditionally Apply Classes with ng-class -->

@@ -1,5 +1,5 @@
 ---
-path: /codecabulary/README
+path: /README
 ---
 #Codecabulary
 
