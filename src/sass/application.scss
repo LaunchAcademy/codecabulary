@@ -1,0 +1,12 @@
+$fa-font-path: "~/font-awesome";
+
+@import "~@launchacademy/dyson_sphere/app/assets/stylesheets/dyson_sphere/node.scss";
+
+pre > code {
+  background-color: initial;
+  border-color: initial;
+  border-style: initial;
+  border-width: initial;
+  font-weight: normal;
+  padding: initial;
+}

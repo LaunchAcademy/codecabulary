@@ -1,21 +1,25 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "@launchacademy/codecabulary",
   "private": true,
   "description": "A simple starter to get up and developing quickly with Gatsby",
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@launchacademy/dyson_sphere": "^0.1.1",
     "gatsby": "^2.3.25",
     "gatsby-image": "^2.0.39",
+    "gatsby-plugin-force-file-loader": "^0.1.0",
     "gatsby-plugin-manifest": "^2.0.29",
     "gatsby-plugin-offline": "^2.0.25",
     "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sass": "^2.1.17",
     "gatsby-plugin-sharp": "^2.0.35",
     "gatsby-remark-prismjs": "^3.2.8",
     "gatsby-source-filesystem": "^2.0.29",
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2.1.18",
     "js-yaml": "^3.13.1",
+    "node-sass": "^4.12.0",
     "prism-themes": "^1.1.0",
     "prismjs": "^1.16.0",
     "prop-types": "^15.7.2",
@@ -24,6 +28,7 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
+    "file-loader": "^4.2.0",
     "prettier": "^1.17.0"
   },
   "keywords": [
@@ -44,5 +49,9 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=10.16.0"
   }
 }
