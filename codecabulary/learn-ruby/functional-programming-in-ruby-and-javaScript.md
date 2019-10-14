@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Functional Programming in Ruby and JavaScript
+---
+path: /learn-ruby/functional-programming-in-ruby-and-javaScript
+title: Functional Programming in Ruby and JavaScript
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Functional Programming in Ruby and JavaScript
 
 
 <!-- ---title: Functional Programming in Ruby and JavaScript -->

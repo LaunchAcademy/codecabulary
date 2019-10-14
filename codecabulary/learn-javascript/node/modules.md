@@ -1,13 +1,18 @@
+---
+path: /learn-javascript/node/modules
+title: Node.js Modules
+---
 <!-- ---title: Node.js Modules -->
 
 Users of node's libraries assign the libraries to variables, and call functions on the public interface on those variables, like so:
 
-	var http = require('http');
-	
-	http.createServer(function(request, response) {
-			...
-	});
-	
+```javascript
+  var http = require('http');
+  http.createServer(function(request, response) {
+    ...
+  });
+```
+
 As creators of modules in node, we also need to expose our public API in some way. Here are a few of the most common:
 
 #### Expose a Single Function

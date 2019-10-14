@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Writing a Rails Model
+---
+path: /learn-rails/writing-a-rails-model
+title: Writing a Rails Model
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Writing a Rails Model
 
 <!-- ---title: Writing a Rails Model -->
 

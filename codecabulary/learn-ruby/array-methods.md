@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Array Methods
+---
+path: /learn-ruby/array-methods
+title: Array Methods
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Array Methods
 
 <!-- ---title: Array Methods -->
 

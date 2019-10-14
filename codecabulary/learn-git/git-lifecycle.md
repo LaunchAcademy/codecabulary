@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / The Git Lifecycle
+---
+path: /learn-git/git-lifecycle
+title: The Git Lifecycle
+---
+[Codecabulary Home](/) / [Learn Git](/learn-git) / The Git Lifecycle
 
 <!-- ---title: The Git Lifecycle -->
 

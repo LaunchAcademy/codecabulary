@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Writing a Rails Migration
+---
+path: /learn-rails/writing-a-rails-migration
+title: Writing a Rails Migration
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Writing a Rails Migration
 
 <!-- ---title: Writing a Rails Migration -->
 

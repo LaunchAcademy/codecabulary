@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Interactive Rebasing
+---
+path: /learn-git/interactive-rebasing
+title: Interactive Rebasing
+---
+[Codecabulary Home](/) / [Learn Git](/learn-git) / Interactive Rebasing
 
 <!-- ---title: Interactive Rebasing -->
 

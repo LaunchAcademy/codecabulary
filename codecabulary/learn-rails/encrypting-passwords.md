@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Encrypting Passwords
+---
+path: /learn-rails/encrypting-passwords
+title: Encrypting Passwords
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Encrypting Passwords
 
 <!-- ---title: Encrypting Passwords -->
 

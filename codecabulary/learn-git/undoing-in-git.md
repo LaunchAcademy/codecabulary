@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Undoing In Git
+---
+path: /learn-git/undoing-in-git
+title: Undoing in Git
+---
+[Codecabulary Home](/) / [Learn Git](/learn-git) / Undoing In Git
 
 <!-- ---title: Undoing in Git -->
 

@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Truthy and Falsy
+---
+path: /learn-ruby/truthy-and-falsy
+title: Truthy and Falsy
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Truthy and Falsy
 
 <!-- ---title: Truthy and Falsy -->
 

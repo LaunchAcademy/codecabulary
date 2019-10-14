@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / IIFEs
+---
+path: /learn-javascript/iifes-in-coffeescript
+title: IIFEs in CoffeeScript
+---
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / IIFEs
 
 <!-- ---title: IIFEs in CoffeeScript -->
 

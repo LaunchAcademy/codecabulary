@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Gemsets
+---
+path: /learn-ruby/gemsets
+title: Gemsets
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Gemsets
 
 <!-- ---title: Gemsets -->
 

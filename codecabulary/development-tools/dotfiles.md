@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Development Tools|codecabulary/development-tools]] / Dotfiles
+---
+path: /development-tools/dotfiles
+title: Dotfiles
+---
+[Codecabulary Home](/) / [Development Tools](/development-tools) / Dotfiles
 
 <!-- ---title: Dotfiles -->
 

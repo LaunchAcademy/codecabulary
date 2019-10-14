@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Observer Pattern
+---
+path: /learn-ruby/observer-pattern
+title: Observer Pattern
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Observer Pattern
 
 <!-- ---title: Observer Pattern -->
 

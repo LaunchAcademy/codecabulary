@@ -1,3 +1,8 @@
+---
+path: >-
+  /learn-javascript/angular/template-method-pattern-in-angular-templates
+title: Template Method Pattern in Angular Templates
+---
 <!-- ---title: Template Method Pattern in Angular Templates -->
 
 Let's say we have model instances that will use much of the same functionality, with slight variances among a given algorithm. We're good programmers, and we don't like to repeat ourselves, so we want to vary the algorithm slightly without writing the same code over and over again--even when we work on the front end. The Template Method Pattern lets us do this, and thanks to Angular's `transclude` property on directives, we can include placeholders for these minor variations in our templates. 

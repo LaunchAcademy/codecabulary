@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Model Associations
+---
+path: /learn-rails/model-associations
+title: Rails Model Associations
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Rails Model Associations
 
 <!-- ---title: Rails Model Associations -->
 

@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Rails Router
+---
+path: /learn-rails/rails-router
+title: Rails Router
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Rails Router
 
 <!-- ---title: Rails Router -->
 

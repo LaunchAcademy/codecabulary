@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Ruby Command Line Switches
+---
+path: /learn-ruby/command-line-switches
+title: Command Line Switches
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Ruby Command Line Switches
 
 <!-- ---title: Command Line Switches -->
 

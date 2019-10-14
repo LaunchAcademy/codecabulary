@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / Yeoman
+---
+path: /learn-javascript/yeoman
+title: Yeoman
+---
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / Yeoman
 
 <!-- ---title: Yeoman -->
 

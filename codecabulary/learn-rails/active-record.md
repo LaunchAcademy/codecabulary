@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Active Record
+---
+path: /learn-rails/active-record
+title: Active Record
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Active Record
 
 <!-- ---title: Active Record -->
 
@@ -34,4 +38,4 @@ These Ruby statements, which use Ruby methods (new and save) and Ruby data types
 
 Which inserts the data into the database. A key difference we can see already is that Active Record handles the messy business of managing primary keys for us, whereas in SQL we need to ensure we're using a unique integer as a primary key. 
 
-Active Record is one of two libraries ([gems](/codecabulary/learn-ruby/gems)) that ship with Rails that are used to access the model layer (the other being Active Model).
+Active Record is one of two libraries ([gems](/learn-ruby/gems)) that ship with Rails that are used to access the model layer (the other being Active Model).

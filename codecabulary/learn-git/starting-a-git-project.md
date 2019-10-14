@@ -1,4 +1,7 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Starting A Git Project
+---
+path: /learn-git/starting-a-git-project
+---
+[Codecabulary Home](/) / [Learn Git](/learn-git) / Starting A Git Project
 
 ## Starting A Git Project
 

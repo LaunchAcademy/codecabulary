@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Blocks
+---
+path: /learn-ruby/blocks
+title: Blocks
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Blocks
 
 <!-- ---title: Blocks -->
 

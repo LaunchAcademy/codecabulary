@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / By Value Versus By Reference
+---
+path: /learn-javascript/value-versus-reference
+title: By Value versus By Reference
+---
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / By Value Versus By Reference
 
 <!-- ---title: By Value versus By Reference -->
 

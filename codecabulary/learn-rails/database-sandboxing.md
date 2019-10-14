@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Rails|codecabulary/learn-rails]] / Database Sandboxing
+---
+path: /learn-rails/database-sandboxing
+title: Database Sandboxing
+---
+[Codecabulary Home](/) / [Learn Rails](/learn-rails) / Database Sandboxing
 
 <!-- ---title: Database Sandboxing -->
 

@@ -1,4 +1,9 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Test Driven Development|codecabulary/learn-test-driven-development]] / [[RSpec|Learn Test Driven Development|codecabulary/learn-test-driven-development/rspec]] / Writing Acceptance Tests in Capybara
+---
+path: >-
+  /learn-test-driven-development/rspec/writing-acceptance-tests-in-capybara
+title: Writing Acceptance Tests in Capybara
+---
+[Codecabulary Home](/) / [Learn Test Driven Development](/learn-test-driven-development) / [RSpec|Learn Test Driven Development](/learn-test-driven-development/rspec) / Writing Acceptance Tests in Capybara
 
 <!-- ---title: Writing Acceptance Tests in Capybara -->
 

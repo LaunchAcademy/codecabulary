@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Git|codecabulary/learn-git]] / Git Merges
+---
+path: /learn-git/git-merging
+title: Git Merges
+---
+[Codecabulary Home](/) / [Learn Git](/learn-git) / Git Merges
 
 <!-- ---title: Git Merges -->
 

@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn JavaScript|codecabulary/learn-javascript]] / this
+---
+path: /learn-javascript/Javascript this
+title: Javascript this
+---
+[Codecabulary Home](/) / [Learn JavaScript](/learn-javascript) / this
 
 
 <!-- ---title: Javascript this -->

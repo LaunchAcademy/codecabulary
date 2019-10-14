@@ -1,0 +1,28 @@
+$fa-font-path: "~/font-awesome";
+
+@import "~@launchacademy/dyson_sphere/app/assets/stylesheets/dyson_sphere/node.scss";
+
+pre > code {
+  background-color: initial;
+  border-color: initial;
+  border-style: initial;
+  border-width: initial;
+  font-weight: normal;
+  padding: initial;
+}
+
+footer {
+  height: auto;
+  padding-top: initial;
+  .sub-footer {
+    border: none;
+  }
+}
+
+@media only screen and (min-width: 64.063em) {
+  footer {
+    text-align: left;
+    height: auto;
+    padding-top: .25em;
+  }
+}

@@ -1,3 +1,7 @@
+---
+path: /learn-javascript/backbone/backbone-models
+title: Backbone Models
+---
 
 
 <!-- ---title: Backbone Models -->

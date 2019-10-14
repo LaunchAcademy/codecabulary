@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / String Literals
+---
+path: /learn-ruby/string-literals
+title: String Literals
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / String Literals
 
 <!-- ---title: String Literals -->
 

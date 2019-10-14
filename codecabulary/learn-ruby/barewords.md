@@ -1,4 +1,8 @@
-[[Codecabulary Home|codecabulary]] / [[Learn Ruby|codecabulary/learn-ruby]] / Barewords
+---
+path: /learn-ruby/barewords
+title: Barewords
+---
+[Codecabulary Home](/) / [Learn Ruby](/learn-ruby) / Barewords
 
 <!-- ---title: Barewords -->
 
@@ -12,54 +16,56 @@ In Ruby, there are three types that are called as barewords:
 
 * Local variables
 
-	
-		def salutation
-			greeting = "Hello "
-			puts greeting + "Brett"
-		end
-	
-	
+```ruby
+def salutation
+  greeting = "Hello "
+  puts greeting + "Brett"
+end
+```
+  
+  
 * Method parameters
 
-		def salutation(greeting)
-			puts greeting + " Brett"
-		end
-		
-		salutation("Hello")
-		
+```ruby
+def salutation(greeting)
+  puts greeting + " Brett"
+end
+
+salutation("Hello")
+```
 
 * Parameterless methods
 
-		def greeting; "Hello "; end
-		
-		def salutation(greeting=greeting)
-			puts greeting + "Brett"
-		end
-		
-		salutation
-		>> "Hello Brett"
-		
+    def greeting; "Hello "; end
+    
+    def salutation(greeting=greeting)
+      puts greeting + "Brett"
+    end
+    
+    salutation
+    >> "Hello Brett"
+    
 With these three types, we can and should replace nearly any other implementation, as long as we know a bit more about how Ruby works. 
 
 For instance, we know that methods defined on the _main_ object have the magical quality of being added as `private` methods to all other objects, and therefore we can replace global variables with methods defined on the main object:
 
-	$global_var = "Accessible anywhere, but decorated."  # becomes:
-	def global_var; "Accessible anywhere, and undecorated."; end
-	
+  $global_var = "Accessible anywhere, but decorated."  # becomes:
+  def global_var; "Accessible anywhere, and undecorated."; end
+  
 #### Gotchas
 
 The primary gotcha I see with barewords is the propensity for collisions. Consider:
 
-	def greeting; "Hello "; end
-	
-	def salutation(greeting)
-		greeting = "Hola "
-		puts greeting + "Brett"
-	end
-	
-	salutation "Sup "
-	
+  def greeting; "Hello "; end
+  
+  def salutation(greeting)
+    greeting = "Hola "
+    puts greeting + "Brett"
+  end
+  
+  salutation "Sup "
+  
 Which of the forms of greeting gets called in the implementation above? Of course it's the local variable; in each case, it's easy to see which will attain precedence by proximity or order of definition. Just be aware that not only can these types of collisions occur, they can also make it hard to root out the definition of a particular bareword for users new to your codebase. In all, barewords will save your company time and money by keeping you from having to dig up the origins of bugs introduced by changing implementations, and I'd still highly recommend using them. Barewords allow your methods to concern themselves with how they work, not where they get their data.
-	
-		
-		
+  
+    
+    
