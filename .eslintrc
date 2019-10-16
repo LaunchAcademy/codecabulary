@@ -1,0 +1,17 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "plugins": [
+    "filenames"
+  ],
+  "rules": {
+    "func-names": ["error", "never"],
+    "consistent-return": 0,
+    "filenames/match-regex": [2, "^[a-zA-Z\\-]+$", true],
+    "filenames/match-exported": [2, "kebab"],
+    "valid-jsdoc": 2,
+    "semi": "off"
+  }
+}
