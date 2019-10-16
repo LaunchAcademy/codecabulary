@@ -31,8 +31,11 @@
     "react-helmet": "^5.2.0"
   },
   "devDependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
     "file-loader": "^4.2.0",
-    "prettier": "^1.17.0"
+    "markdownlint": "^0.17.0",
+    "prettier": "1.18.2"
   },
   "keywords": [
     "gatsby"
