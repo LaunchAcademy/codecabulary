@@ -4,7 +4,8 @@ module.exports = {
     titleTemplate: "%s - Learn to Code in Boston",
     description: `Launch Academy's knowledge base for learning to code.`,
     author: `@dpickett`,
-    twitterUsername: "@launchacademy"
+    twitterUsername: "@launchacademy",
+    siteUrl: "https://codecabulary.launchacademy.com"
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -93,7 +94,9 @@ module.exports = {
         id: process.env.GTM_TOKEN,
       }
     },
-    'gatsby-plugin-sass'
+    'gatsby-plugin-sass',
+    `gatsby-plugin-catch-links`,
+    `gatsby-plugin-sitemap`
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
