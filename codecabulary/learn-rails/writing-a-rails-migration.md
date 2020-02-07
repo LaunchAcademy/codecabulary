@@ -6,7 +6,7 @@ title: Writing a Rails Migration
 
 Rails migrations are just Ruby code. In your Rails app, your migrations are stored in `db/migrate` (relative to the Rails root).
 
-A migration, by definition, is a _change_ to the database schema, but the first change to make is to generate a table if you haven't already, which you can review in more detail at Writing a Rails Model. 
+A migration, by definition, is a _change_ to the database schema, but the first change to make is to generate a table if you haven't already, which you can review in more detail at [Writing a Rails Model](/learn-rails/writing-a-rails-model).
 
 #### 1) Generate the Migration Files
 
@@ -22,9 +22,9 @@ For example:
 rails g migration change_username_field_to_email
 ```
 
-Like generating a model, Rails will generate a few files for you when generating a migration. The first is the migration file itself, located in `db/migrate`, which in this case would be named `YYYYMMDDHHMMSS_change_username_field_to_email`. Check here for more info on Migration Naming Conventions.
+Like generating a model, Rails will generate a few files for you when generating a migration. The first is the migration file itself, located in `db/migrate`, which in this case would be named `YYYYMMDDHHMMSS_change_username_field_to_email`. Check [here](/learn-rails/naming-migrations) for more info on Migration Naming Conventions.
 
-ProTip: If the migration name you write in this step is of the form “AddXXXToYYY” or “RemoveXXXFromYYY” and is followed by a list of column names and types then a migration containing the appropriate add_column and remove_column statements will be created for you (otherwise the next step in the process). Bada-bing.
+ProTip: If the migration name you write in this step is of the form “AddXXXToYYY” or “RemoveXXXFromYYY” and is followed by a list of column names and types, then a migration containing the appropriate add_column and remove_column statements will be created for you (otherwise the next step in the process). Bada-bing.
 
 Example:
 
@@ -46,7 +46,7 @@ In our example:
 class ChangeUsernameFieldToEmail < ActiveRecord::Migration
 ```
 
-For more info on this line, check out the section on Writing a Rails Model.
+For more info on this line, check out the section on [Writing a Rails Model](/learn-rails/writing-a-rails-model).
 
 If we were writing a constructive migration like adding a column or a table, we'd want to name the method in the next line `change`. Since instead we're changing a column, we'll need to create two methods: `up` and `down` (where up is the change we want to make, and down is its inverse--a fallback in case we want to undo our changes). Check here for more details on Changing Migrations.
 
@@ -64,11 +64,14 @@ How did we know what the names of these methods were? Simple, check Migration Me
 
 How did we know whether to use `change` or `up`/`down`? `up`/`down` is going to be the safest bet in all cases (today), but there's also a list of the methods `change` supports:
 
-*	add_column
-*	add_index
-*	add_timestamps
-*	create_table
-*	remove_timestamps
+* add_column
+* add_index
+* add_timestamps
+* add_reference
+* create_table
+* drop_table
+* remove_timestamps
+* remove_reference
 * rename_column
 * rename_index
 * rename_table
@@ -77,7 +80,7 @@ How did we know whether to use `change` or `up`/`down`? `up`/`down` is going to 
 
 The migration is almost complete. Back in the command line, in the Rails root, we'll run:
 
-```no-hihlight
+```no-highlight
 rake db:migrate
 ```
 
